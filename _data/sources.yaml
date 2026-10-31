@@ -1,0 +1,118 @@
+# Publications listed on the old Google Site (southerngenomics.org/publications).
+# Entries with an id are looked up automatically; entries without one are shown as written.
+# Add new papers with just a line like:  - id: doi:10.xxxx/yyyy
+
+- id: doi:10.1093/bioinformatics/btag781
+- id: doi:10.1016/j.stress.2026.101259
+- id: doi:10.3389/fmicb.2025.1718089
+- id: doi:10.1073/pnas.2511842122
+- id: doi:10.1093/plphys/kiaf536
+- id: doi:10.1016/j.stress.2025.101029
+- id: doi:10.1111/tpj.70452
+- id: doi:10.1016/j.iot.2025.101617
+- id: doi:10.1101/2024.04.24.590919
+- id: doi:10.3390/horticulturae10121325
+- id: doi:10.3389/fmicb.2024.1487917
+- id: doi:10.1111/pbi.14285
+- id: doi:10.1094/PDIS-09-22-2198-A
+- id: doi:10.1038/s41598-022-12326-x
+- id: doi:10.1093/plphys/kiac022
+- id: doi:10.1093/plphys/kiac061
+- id: doi:10.3389/fmicb.2021.731711
+- id: doi:10.1007/s11042-021-11886-w
+- id: doi:10.1089/crispr.2021.0045
+- id: doi:10.1038/s41598-019-47789-y
+- id: doi:10.1186/s12864-019-5909-5
+- id: doi:10.1101/513408
+- id: doi:10.1128/MRA.01563-18
+- id: doi:10.1073/pnas.1801437115
+- id: doi:10.5598/imafungus.2017.08.02.10
+- id: doi:10.1128/genomeA.01290-17
+- id: doi:10.1111/tpj.13419
+- id: doi:10.1038/nature23897
+- id: doi:10.1038/nature16548
+- id: doi:10.1186/s12863-015-0304-y
+- id: doi:10.1371/journal.pone.0139080
+- id: doi:10.1093/jxb/erv346
+- id: doi:10.1111/nph.13557
+- id: doi:10.1093/gbe/evv044
+- id: doi:10.1186/s12870-014-0220-8
+- id: doi:10.1007/s11295-014-0717-1
+- id: doi:10.1038/ncomms5767
+- id: doi:10.1038/nature12221
+- id: doi:10.1038/nature12211
+- id: doi:10.1021/pr400392a
+- id: doi:10.1002/bit.24895
+- id: doi:10.1111/mmi.12200
+- id: doi:10.1094/MPMI-09-11-0238
+- id: doi:10.1016/j.devcel.2012.02.002
+- id: doi:10.1111/j.1469-8137.2012.04128.x
+- id: doi:10.1186/1471-2164-12-368
+- id: doi:10.1073/pnas.1019315108
+- id: doi:10.1104/pp.109.138123
+- id: doi:10.1038/nbt.1544
+- id: doi:10.1186/1475-2859-8-53
+- id: doi:10.1093/nar/gkm978
+- id: doi:10.1038/nature06556
+- id: doi:10.1101/gr.5509507
+- id: doi:10.1007/s11103-006-9093-z
+- id: doi:10.1007/s11103-007-9218-z
+- id: doi:10.1038/nature03895
+- id: doi:10.1109/IS3C50286.2020.00058
+
+# --- items without a DOI ---
+
+- title: Xenorhabdus taiwanensis sp. nov., a symbiotic bacterium isolated from entomopathogenic nematode Steinernema taiwanensis
+  authors:
+    - Ching-Tzu Tseng
+    - Hung-Yu Shu
+    - Miao-Han Chen
+    - Yi-Jie Fang
+    - Ting-Li Wu
+    - Yao-Cheng Lin
+    - Chien-Jui Huang
+  publisher: Russian Journal of Nematology 32 (2), 153–162
+  date: 2024-12-01
+  link: https://www.russjnematology.com/rjnvol322.htm
+
+- title: Detection of SNPs between Tainung 67 and Nipponbare rice cultivars
+  authors:
+    - A.-L. Hour
+    - Y.-C. Lin
+    - P.-F. Li
+    - T.-Y. Chow
+    - W.-F. Lu
+    - F.-J. Wei
+    - Y.-I. Hsing
+  publisher: Botanical Studies 48, 243–253
+  date: 2006-01-01
+  link: https://ejournal.sinica.edu.tw/bbas/content/2007/3/Bot483-02.pdf
+
+- title: Fast and accurate cDNA mapping and splice site identification
+  type: paper
+  authors:
+    - M. Vyverman
+    - D. De Smedt
+    - Y.-C. Lin
+    - L. Sterck
+    - B. De Baets
+    - V. Fack
+    - P. Dawyndt
+  publisher: "Proceedings of BIOSTEC 2014: International Conference on Bioinformatics Models, Methods and Algorithms"
+  date: 2014-01-01
+
+- title: 第二章第三節 自動化作物表型體分析平台介紹及應用 (book chapter)
+  type: book
+  authors:
+    - 林耀正
+  publisher: 精準育種科技之應用及發展, 中興大學精準農業教學推動中心
+  date: 2023-01-01
+  link: https://drive.google.com/file/d/170amonxiL0vi2qTXQhFEt-xYP5eXdov4/view?usp=sharing
+
+- title: 第三章第二節 轉錄體學分析技術於作物之應用 (book chapter)
+  type: book
+  authors:
+    - 林耀正
+  publisher: 前瞻基因體學技術於農業領域之研發應用與展望 (pp. 167–185), 臺大動植物農業產業創新教學推動中心
+  date: 2020-01-01
+  link: https://drive.google.com/file/d/1ZIj3RaG1dzGFOXjLDQCT9UxPAE62hTRq/view?usp=sharing

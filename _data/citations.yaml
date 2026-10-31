@@ -1,0 +1,2051 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1093/bioinformatics/btag781
+  title: 'pxGPT: a schema-constrained multimodal large language model framework for
+    plant phenotyping'
+  authors:
+  - Po-Xing Zheng
+  - Jheng-Yan Ou
+  - Yu-Lin Wu
+  - Ruei-Shiuan Wang
+  - Ting-Li Wu
+  - Te-Chang Hsu
+  - Yao-Cheng Lin
+  publisher: Bioinformatics
+  date: '2026-10-01'
+  link: https://doi.org/hcqvjv
+  orcid: 0009-0003-8596-9047
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2511842122
+  title: "Chromosomal deletions in banana somaclonal variants reveal negative regulators\
+    \ of immunity underlying\n                    <i>Fusarium</i>\n              \
+    \      wilt resistance"
+  authors:
+  - Puyam Tondonba Singh
+  - Bo-Han Hou
+  - Yi-Heng Tsai
+  - Yuh Tzean
+  - Chih-Ping Chao
+  - Po-Xing Zheng
+  - Yao-Cheng Lin
+  - Wei-Chiang Shen
+  - Hsin-Hung Yeh
+  - Ho-Ming Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-11-24'
+  link: https://doi.org/hcqvjw
+  orcid: 0000-0001-5827-5865
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/plphys/kiaf536
+  title: "<i>N</i>\n                    -hydroxy-pipecolic acid-mediated signal transduction\
+    \ and resistance requires\n                    <i>DAWDLE</i>"
+  authors:
+  - Jung-Kai Hsu
+  - Hsin-Yi Hsieh
+  - Chien-Hau Huang
+  - Chen-Yun Hsieh
+  - Jheng-Yang Ou
+  - Shu-Fen Huang
+  - Er-Tsi Hung
+  - Yu-Chang Liu
+  - Sy-Chyi Cheng
+  - Yao-Cheng Lin
+  - Yun-Chu Chen
+  publisher: Plant Physiology
+  date: '2025-10-23'
+  link: https://doi.org/hcqvjx
+  orcid: 0000-0001-5811-4471
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/tpj.70452
+  title: Transposable elements drive evolution and perturb gene expression in <i>Brassica
+    rapa</i> and <i>B. oleracea</i>
+  authors:
+  - "Po\u2010Xing Zheng"
+  - "Chia\u2010Ying Ko"
+  - "Jheng\u2010Yan Ou"
+  - Andrea Zuccolo
+  - "Yao\u2010Cheng Lin"
+  publisher: The Plant Journal
+  date: '2025-09-01'
+  link: https://doi.org/hcqvjz
+  orcid: 0000-0001-5811-4471
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.iot.2025.101617
+  title: An intelligent plant watering decision support system for drought monitoring
+    &amp; analysis based on AIoT and an LSTM time-series framework
+  authors:
+  - Yao-Cheng Lin
+  - Tin-Yu Wu
+  - Chu-Fu Wang
+  - Jheng-Yang Ou
+  - Te-Chang Hsu
+  - Shiyang Lyu
+  - Ling Cheng
+  - Yu-Xiu Lin
+  - David Taniar
+  publisher: Internet of Things
+  date: '2025-07-01'
+  link: https://doi.org/hcqvj2
+  orcid: 0000-0001-5811-4471
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/horticulturae10121325
+  title: KASP Markers for Identifying Roselle (Hibiscus sabdariffa L.) Key Varieties
+    Based on Genetic Polymorphisms Revealed by ddRAD-Seq
+  authors:
+  - Shih-Jie Huang
+  - Jheng-Yang Ou
+  - Yao-Cheng Lin
+  - Jing-Wen Chen
+  - Kai-Yi Chen
+  - Yu-Lin Wu
+  - Chun-Hao Hu
+  - Ju-Yin Lee
+  - Jia-Wei Wu
+  - Fu-Chiun Hsu
+  publisher: Horticulturae
+  date: '2024-12-11'
+  link: https://doi.org/hcqvj3
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/pbi.14285
+  title: "Transgene\u2010free CRISPR/Cas9\u2010mediated gene editing through protoplast\u2010\
+    to\u2010plant regeneration enhances active compounds in <i>Salvia miltiorrhiza</i>"
+  authors:
+  - "Chen\u2010Tran Hsu"
+  - "Chi\u2010Chou Chiu"
+  - "Pao\u2010Yuan Hsiao"
+  - "Chih\u2010Yu Lin"
+  - Sychyi Cheng
+  - "Yao\u2010Cheng Lin"
+  - "Yu\u2010Liang Yang"
+  - "Fu\u2010Hui Wu"
+  - "Horng\u2010Jyh Harn"
+  - "Shinn\u2010Zong Lin"
+  - "Choun\u2010Sea Lin"
+  publisher: Plant Biotechnology Journal
+  date: '2024-01-04'
+  link: https://doi.org/hcqvj4
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1094/PDIS-09-22-2198-A
+  title: Complete Genome Sequence Resource of <i>Pectobacterium colocasium</i> Strain
+    F1-1 that Causes Soft Rot Disease of Taro
+  authors:
+  - Chien-Jui Huang
+  - Ting-Li Wu
+  - Po-Xing Zheng
+  - Jheng-Yang Ou
+  - Chao-Ling Ting
+  - Yao-Cheng Lin
+  publisher: Plant Disease
+  date: '2023-06-01'
+  link: https://doi.org/hcqvj5
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-022-12326-x
+  title: Whole genome resequencing and complementation tests reveal candidate loci
+    contributing to bacterial wilt (Ralstonia sp.) resistance in tomato
+  authors:
+  - Derek W. Barchenger
+  - Yu-ming Hsu
+  - Jheng-yang Ou
+  - Ya-ping Lin
+  - Yao-cheng Lin
+  - Mark Angelo O. Balendres
+  - Yun-che Hsu
+  - Roland Schafleitner
+  - Peter Hanson
+  publisher: Scientific Reports
+  date: '2022-05-19'
+  link: https://doi.org/hbhf2s
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/plphys/kiac022
+  title: DNA-free CRISPR-Cas9 gene editing of wild tetraploid tomato <i>Solanum peruvianum</i>
+    using protoplast regeneration
+  authors:
+  - Choun-Sea Lin
+  - Chen-Tran Hsu
+  - Yu-Hsuan Yuan
+  - Po-Xing Zheng
+  - Fu-Hui Wu
+  - Qiao-Wei Cheng
+  - Yu-Lin Wu
+  - Ting-Li Wu
+  - Steven Lin
+  - Jin-Jun Yue
+  - Ying-Huey Cheng
+  - Shu-I Lin
+  - Ming-Che Shih
+  - Jen Sheen
+  - Yao-Cheng Lin
+  publisher: Plant Physiology
+  date: '2022-01-28'
+  link: https://doi.org/hcqvj6
+  orcid: 0000-0001-5827-5865
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/crispr.2021.0045
+  title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
+    Regeneration
+  authors:
+  - Chen-Tran Hsu
+  - Yu-Hsuan Yuan
+  - Yao-Cheng Lin
+  - Steven Lin
+  - Qiao-Wei Cheng
+  - Fu-Hui Wu
+  - Jen Sheen
+  - Ming-Che Shih
+  - Choun-Sea Lin
+  publisher: The CRISPR Journal
+  date: '2021-10-01'
+  link: https://doi.org/hcqvj7
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2021.731711
+  title: Comparative Genomic Analysis Uncovered Evolution of Pathogenicity Factors,
+    Horizontal Gene Transfer Events, and Heavy Metal Resistance Traits in Citrus Canker
+    Bacterium Xanthomonas citri subsp. citri
+  authors:
+  - Chien-Jui Huang
+  - Ting-Li Wu
+  - Po-Xing Zheng
+  - Jheng-Yang Ou
+  - Hui-Fang Ni
+  - Yao-Cheng Lin
+  publisher: Frontiers in Microbiology
+  date: '2021-09-07'
+  link: https://doi.org/gtvgt4
+  orcid: 0000-0002-2018-9387
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2021.03.09.434087
+  title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
+    Regeneration
+  authors:
+  - Chen-Tran Hsu
+  - Yu-Hsuan Yuan
+  - Yao-Cheng Lin
+  - Steven Lin
+  - Qiao-Wei Cheng
+  - Fu-Hui Wu
+  - Jen Sheen
+  - Ming-Che Shih
+  - Choun-Sea Lin
+  publisher: openRxiv
+  date: '2021-03-10'
+  link: https://doi.org/hcqvj8
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/is3c50286.2020.00058
+  title: Automatic Leaf Counting Using Improved YOLOv3
+  authors:
+  - Yi-Lin Tu
+  - Wei-Yang Lin
+  - Yao-Cheng Lin
+  publisher: 2020 International Symposium on Computer, Consumer and Control (IS3C)
+  date: '2020-11-01'
+  link: https://doi.org/hcqvj9
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-019-5909-5
+  title: Reference genome and comparative genome analysis for the WHO reference strain
+    for Mycobacterium bovis BCG Danish, the present tuberculosis vaccine
+  authors:
+  - Katlyn Borgers
+  - Jheng-Yang Ou
+  - Po-Xing Zheng
+  - Petra Tiels
+  - Annelies Van Hecke
+  - Evelyn Plets
+  - Gitte Michielsen
+  - Nele Festjens
+  - Nico Callewaert
+  - Yao-Cheng Lin
+  publisher: BMC Genomics
+  date: '2019-07-08'
+  link: https://doi.org/gj74vm
+  orcid: 0000-0001-5811-4471
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-019-47789-y
+  title: Small RNA profiling in Pinus pinaster reveals the transcriptome of developing
+    seeds and highlights differences between zygotic and somatic embryos
+  authors:
+  - Andreia S. Rodrigues
+  - "In\xEAs Chaves"
+  - Bruno Vasques Costa
+  - Yao-Cheng Lin
+  - Susana Lopes
+  - Ana Milhinhos
+  - Yves Van de Peer
+  - "C\xE9lia M. Miguel"
+  publisher: Scientific Reports
+  date: '2019-08-05'
+  link: https://doi.org/gkdzrq
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/MRA.01563-18
+  title: "Draft Genome Assembly of the False Spider Mite\n            <i>Brevipalpus\
+    \ yothersi</i>"
+  authors:
+  - Denise Navia
+  - Valdenice M. Novelli
+  - Stephane Rombauts
+  - "Juliana Freitas-Ast\xFAa"
+  - "Renata Santos de Mendon\xE7a"
+  - Maria Andreia Nunes
+  - Marcos A. Machado
+  - Yao-Cheng Lin
+  - Phuong Le
+  - Zaichao Zhang
+  - "Miodrag Grbi\u0107"
+  - Nicky Wybouw
+  - Johannes A. J. Breeuwer
+  - Thomas Van Leeuwen
+  - Yves Van de Peer
+  publisher: Microbiology Resource Announcements
+  date: '2019-02-07'
+  link: https://doi.org/hcqvkb
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1801437115
+  title: "Functional and evolutionary genomic inferences in\n                    <i>Populus</i>\n\
+    \                    through genome and population sequencing of American and\
+    \ European aspen"
+  authors:
+  - Yao-Cheng Lin
+  - Jing Wang
+  - Nicolas Delhomme
+  - Bastian Schiffthaler
+  - "G\xF6rel Sundstr\xF6m"
+  - Andrea Zuccolo
+  - "Bj\xF6rn Nystedt"
+  - Torgeir R. Hvidsten
+  - Amanda de la Torre
+  - Rosa M. Cossu
+  - Marc P. Hoeppner
+  - Henrik Lantz
+  - Douglas G. Scofield
+  - Neda Zamani
+  - Anna Johansson
+  - Chanaka Mannapperuma
+  - Kathryn M. Robinson
+  - "Niklas M\xE4hler"
+  - Ilia J. Leitch
+  - Jaume Pellicer
+  - Eung-Jun Park
+  - Marc Van Montagu
+  - Yves Van de Peer
+  - Manfred Grabherr
+  - Stefan Jansson
+  - "P\xE4r K. Ingvarsson"
+  - Nathaniel R. Street
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-10-29'
+  link: https://doi.org/gfnpns
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- title: Complete Genome Sequence of Bacillus cereus C1L, a Plant Growth-Promoting
+    Rhizobacterium from the Rhizosphere of Formosa Lily in Taiwan
+  publisher: Genome Announcements
+  date: '2022-05-27'
+  link: http://mra.asm.org/content/5/46/e01290-17.abstract
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5598/imafungus.2017.08.02.10
+  title: Draft genome of Cercospora zeina, Fusarium pininemorale, Hawksworthiomyces
+    lignivorus, Huntiella decipiens and Ophiostoma ips
+  authors:
+  - Brenda D. Wingfield
+  - Dave K. Berger
+  - Emma T. Steenkamp
+  - Hye-Jin Lim
+  - Tuan A. Duong
+  - Burton H. Bluhm
+  - Z. Wilhelm de Beer
+  - Lieschen De Vos
+  - G. Fourie
+  - Kershney Naidoo
+  - Nicky Olivier
+  - Yao-Cheng Lin
+  - Yves Van de Peer
+  - Fourie Joubert
+  - Bridget G. Crampton
+  - Velushka Swart
+  - Nicole Soal
+  - Catherine Tatham
+  - Magriet A. van der Nest
+  - Nicolaas A. van der Merwe
+  - Stephanie van Wyk
+  - P. Markus Wilken
+  - Michael J. Wingfield
+  publisher: IMA Fungus
+  date: '2017-11-21'
+  link: https://doi.org/gcrnrz
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/tpj.13419
+  title: "Systems genetics reveals a transcriptional network associated with susceptibility\
+    \ in the maize\u2013grey leaf spot pathosystem"
+  authors:
+  - Nanette Christie
+  - Alexander A. Myburg
+  - Fourie Joubert
+  - Shane L. Murray
+  - Maryke Carstens
+  - "Yao\u2010Cheng Lin"
+  - Jacqueline Meyer
+  - Bridget G. Crampton
+  - Shawn A. Christensen
+  - Jean F. Ntuli
+  - Sara S. Wighard
+  - Yves Van de Peer
+  - Dave K. Berger
+  publisher: The Plant Journal
+  date: '2017-02-01'
+  link: https://doi.org/hcqvkc
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature23897
+  title: The Apostasia genome and the evolution of orchids
+  authors:
+  - Guo-Qiang Zhang
+  - Ke-Wei Liu
+  - Zhen Li
+  - Rolf Lohaus
+  - Yu-Yun Hsiao
+  - Shan-Ce Niu
+  - Jie-Yu Wang
+  - Yao-Cheng Lin
+  - Qing Xu
+  - Li-Jun Chen
+  - Kouki Yoshida
+  - Sumire Fujiwara
+  - Zhi-Wen Wang
+  - Yong-Qiang Zhang
+  - Nobutaka Mitsuda
+  - Meina Wang
+  - Guo-Hui Liu
+  - Lorenzo Pecoraro
+  - Hui-Xia Huang
+  - Xin-Ju Xiao
+  - Min Lin
+  - Xin-Yi Wu
+  - Wan-Lin Wu
+  - You-Yi Chen
+  - Song-Bin Chang
+  - Shingo Sakamoto
+  - Masaru Ohme-Takagi
+  - Masafumi Yagi
+  - Si-Jin Zeng
+  - Ching-Yu Shen
+  - Chuan-Ming Yeh
+  - Yi-Bo Luo
+  - Wen-Chieh Tsai
+  - Yves Van de Peer
+  - Zhong-Jian Liu
+  publisher: Nature
+  date: '2017-09-13'
+  link: https://doi.org/gbwkhb
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature16548
+  title: The genome of the seagrass Zostera marina reveals angiosperm adaptation to
+    the sea
+  authors:
+  - Jeanine L. Olsen
+  - "Pierre Rouz\xE9"
+  - Bram Verhelst
+  - Yao-Cheng Lin
+  - Till Bayer
+  - Jonas Collen
+  - Emanuela Dattolo
+  - Emanuele De Paoli
+  - Simon Dittami
+  - Florian Maumus
+  - Gurvan Michel
+  - Anna Kersting
+  - Chiara Lauritano
+  - Rolf Lohaus
+  - "Mats T\xF6pel"
+  - Thierry Tonon
+  - Kevin Vanneste
+  - Mojgan Amirebrahimi
+  - Janina Brakel
+  - "Christoffer Bostr\xF6m"
+  - Mansi Chovatia
+  - Jane Grimwood
+  - Jerry W. Jenkins
+  - Alexander Jueterbock
+  - Amy Mraz
+  - Wytze T. Stam
+  - Hope Tice
+  - Erich Bornberg-Bauer
+  - Pamela J. Green
+  - Gareth A. Pearson
+  - Gabriele Procaccini
+  - Carlos M. Duarte
+  - Jeremy Schmutz
+  - Thorsten B. H. Reusch
+  - Yves Van de Peer
+  publisher: Nature
+  date: '2016-01-27'
+  link: https://doi.org/f3phgk
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jxb/erv346
+  title: Expanding the repertoire of secretory peptides controlling root development
+    with comparative genome analysis and functional assays
+  authors:
+  - Sarieh Ghorbani
+  - Yao-Cheng Lin
+  - Boris Parizot
+  - Ana Fernandez
+  - Maria Fransiska Njo
+  - Yves Van de Peer
+  - Tom Beeckman
+  - Pierre Hilson
+  publisher: Journal of Experimental Botany
+  date: '2015-07-20'
+  link: https://doi.org/f7ndsz
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms5767
+  title: Genome dynamics of the human embryonic kidney 293 lineage in response to
+    cell biology manipulations
+  authors:
+  - Yao-Cheng Lin
+  - Morgane Boone
+  - Leander Meuris
+  - Irma Lemmens
+  - Nadine Van Roy
+  - Arne Soete
+  - Joke Reumers
+  - Matthieu Moisse
+  - "St\xE9phane Plaisance"
+  - Radoje Drmanac
+  - Jason Chen
+  - Frank Speleman
+  - Diether Lambrechts
+  - Yves Van de Peer
+  - Jan Tavernier
+  - Nico Callewaert
+  publisher: Nature Communications
+  date: '2014-09-03'
+  link: https://doi.org/f6kp4m
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12870-014-0220-8
+  title: Comparative in silicoanalysis of EST-SSRs in angiosperm and gymnosperm tree
+    genera
+  authors:
+  - Sonali Sachin Ranade
+  - Yao-Cheng Lin
+  - Andrea Zuccolo
+  - Yves Van de Peer
+  - "Mar\xEDa del Rosario Garc\xEDa-Gil"
+  publisher: BMC Plant Biology
+  date: '2014-08-21'
+  link: https://doi.org/f3p257
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11295-014-0717-1
+  title: miRNA profiling in leaf and cork tissues of Quercus suber reveals novel miRNAs
+    and tissue-specific expression patterns
+  authors:
+  - "In\xEAs Chaves"
+  - Yao-Cheng Lin
+  - C. Pinto-Ricardo
+  - Yves Van de Peer
+  - "C\xE9lia Miguel"
+  publisher: Tree Genetics &amp; Genomes
+  date: '2014-03-26'
+  link: https://doi.org/f54p67
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/bit.24895
+  title: "<i>Candida bombicola</i> as a platform organism for the production of tailor\u2010\
+    made biomolecules"
+  authors:
+  - Sophie L.K.W. Roelants
+  - Karen M.J. Saerens
+  - Thibaut Derycke
+  - Bing Li
+  - "Yao\u2010Cheng Lin"
+  - Yves Van de Peer
+  - Sofie L. De Maeseneire
+  - Inge N.A. Van Bogaert
+  - Wim Soetaert
+  publisher: Biotechnology and Bioengineering
+  date: '2013-05-01'
+  link: https://doi.org/hcqvkd
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature12221
+  title: Pan genome of the phytoplankton Emiliania underpins its global distribution
+  authors:
+  - Betsy A. Read
+  - Jessica Kegel
+  - Mary J. Klute
+  - Alan Kuo
+  - Stephane C. Lefebvre
+  - Florian Maumus
+  - Christoph Mayer
+  - John Miller
+  - Adam Monier
+  - Asaf Salamov
+  - Jeremy Young
+  - Maria Aguilar
+  - Jean-Michel Claverie
+  - Stephan Frickenhaus
+  - Karina Gonzalez
+  - Emily K. Herman
+  - Yao-Cheng Lin
+  - Johnathan Napier
+  - Hiroyuki Ogata
+  - Analissa F. Sarno
+  - Jeremy Shmutz
+  - Declan Schroeder
+  - Colomban de Vargas
+  - Frederic Verret
+  - Peter von Dassow
+  - Klaus Valentin
+  - Yves Van de Peer
+  - Glen Wheeler
+  - Joel B. Dacks
+  - Charles F. Delwiche
+  - Sonya T. Dyhrman
+  - "Gernot Gl\xF6ckner"
+  - Uwe John
+  - Thomas Richards
+  - Alexandra Z. Worden
+  - Xiaoyu Zhang
+  - Igor V. Grigoriev
+  publisher: Nature
+  date: '2013-06-12'
+  link: https://doi.org/f44x9j
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/pr400392a
+  title: SILAC-Based Proteome Analysis of <i>Starmerella bombicola</i> Sophorolipid
+    Production
+  authors:
+  - Katarzyna Ciesielska
+  - Bing Li
+  - Sara Groeneboer
+  - Inge Van Bogaert
+  - Yao-Chen Lin
+  - Wim Soetaert
+  - Yves Van de Peer
+  - Bart Devreese
+  publisher: Journal of Proteome Research
+  date: '2013-09-11'
+  link: https://doi.org/f5fgcr
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature12211
+  title: The Norway spruce genome sequence and conifer genome evolution
+  authors:
+  - "Bj\xF6rn Nystedt"
+  - Nathaniel R. Street
+  - Anna Wetterbom
+  - Andrea Zuccolo
+  - Yao-Cheng Lin
+  - Douglas G. Scofield
+  - Francesco Vezzi
+  - Nicolas Delhomme
+  - Stefania Giacomello
+  - Andrey Alexeyenko
+  - Riccardo Vicedomini
+  - Kristoffer Sahlin
+  - Ellen Sherwood
+  - Malin Elfstrand
+  - Lydia Gramzow
+  - Kristina Holmberg
+  - "Jimmie H\xE4llman"
+  - Olivier Keech
+  - Lisa Klasson
+  - Maxim Koriabine
+  - Melis Kucukoglu
+  - "Max K\xE4ller"
+  - Johannes Luthman
+  - Fredrik Lysholm
+  - "Totte Niittyl\xE4"
+  - "\xC5ke Olson"
+  - Nemanja Rilakovic
+  - Carol Ritland
+  - "Josep A. Rossell\xF3"
+  - Juliana Sena
+  - Thomas Svensson
+  - "Carlos Talavera-L\xF3pez"
+  - "G\xFCnter Thei\xDFen"
+  - Hannele Tuominen
+  - Kevin Vanneste
+  - Zhi-Qiang Wu
+  - Bo Zhang
+  - Philipp Zerbe
+  - Lars Arvestad
+  - Rishikesh Bhalerao
+  - Joerg Bohlmann
+  - Jean Bousquet
+  - Rosario Garcia Gil
+  - Torgeir R. Hvidsten
+  - Pieter de Jong
+  - John MacKay
+  - Michele Morgante
+  - Kermit Ritland
+  - "Bj\xF6rn Sundberg"
+  - Stacey Lee Thompson
+  - Yves Van de Peer
+  - "Bj\xF6rn Andersson"
+  - Ove Nilsson
+  - "P\xE4r K. Ingvarsson"
+  - Joakim Lundeberg
+  - Stefan Jansson
+  publisher: Nature
+  date: '2013-05-01'
+  link: https://doi.org/f2zsx6
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mmi.12200
+  title: "The biosynthetic gene cluster for sophorolipids: a biotechnological interesting\
+    \ biosurfactant produced by\n                    <i>\n                      <scp>S</scp>\n\
+    \                      tarmerella bombicola\n                    </i>"
+  authors:
+  - Inge N. A. Van Bogaert
+  - Kevin Holvoet
+  - Sophie L. K. W. Roelants
+  - Bing Li
+  - "Yao\u2010Cheng Lin"
+  - Yves Van de Peer
+  - Wim Soetaert
+  publisher: Molecular Microbiology
+  date: '2013-03-21'
+  link: https://doi.org/f4tc7v
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1094/MPMI-09-11-0238
+  title: A Comprehensive Analysis of Genes Encoding Small Secreted Proteins Identifies
+    Candidate Effectors in <i>Melampsora larici-populina</i> (Poplar Leaf Rust)
+  authors:
+  - "St\xE9phane Hacquard"
+  - David L. Joly
+  - Yao-Cheng Lin
+  - Emilie Tisserant
+  - Nicolas Feau
+  - Christine Delaruelle
+  - "Val\xE9rie Legu\xE9"
+  - Annegret Kohler
+  - Philippe Tanguay
+  - Benjamin Petre
+  - Pascal Frey
+  - Yves Van de Peer
+  - "Pierre Rouz\xE9"
+  - Francis Martin
+  - Richard C. Hamelin
+  - "S\xE9bastien Duplessis"
+  publisher: "Molecular Plant-Microbe Interactions\xAE"
+  date: '2012-03-01'
+  link: https://doi.org/btk7nz
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.devcel.2012.02.002
+  title: GOLVEN Secretory Peptides Regulate Auxin Carrier Turnover during Plant Gravitropic
+    Responses
+  authors:
+  - Ryan Whitford
+  - Ana Fernandez
+  - Ricardo Tejos
+  - "Amparo\_Cu\xE9llar P\xE9rez"
+  - "J\xFCrgen Kleine-Vehn"
+  - Steffen Vanneste
+  - Andrzej Drozdzecki
+  - Johannes Leitner
+  - Lindy Abas
+  - Maarten Aerts
+  - Kurt Hoogewijs
+  - Pawel Baster
+  - "Ruth De\_Groodt"
+  - Yao-Cheng Lin
+  - "V\xE9ronique Storme"
+  - "Yves Van\_de\_Peer"
+  - Tom Beeckman
+  - Annemieke Madder
+  - Bart Devreese
+  - Christian Luschnig
+  - "Ji\u0159\xED Friml"
+  - Pierre Hilson
+  publisher: Developmental Cell
+  date: '2012-03-01'
+  link: https://doi.org/f3ss6g
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-8137.2012.04128.x
+  title: "Insight into trade\u2010off between wood decay and parasitism from the genome\
+    \ of a fungal forest pathogen"
+  authors:
+  - "\xC5ke Olson"
+  - Andrea Aerts
+  - Fred Asiegbu
+  - Lassaad Belbahri
+  - Ourdia Bouzid
+  - Anders Broberg
+  - "Bj\xF6rn Canb\xE4ck"
+  - Pedro M. Coutinho
+  - Dan Cullen
+  - Kerstin Dalman
+  - Giuliana Deflorio
+  - Linda T.A. van Diepen
+  - Christophe Dunand
+  - "S\xE9bastien Duplessis"
+  - Mikael Durling
+  - Paolo Gonthier
+  - Jane Grimwood
+  - Carl Gunnar Fossdal
+  - David Hansson
+  - Bernard Henrissat
+  - Ari Hietala
+  - Kajsa Himmelstrand
+  - Dirk Hoffmeister
+  - "Nils H\xF6gberg"
+  - Timothy Y. James
+  - Magnus Karlsson
+  - Annegret Kohler
+  - "Ursula K\xFCes"
+  - "Yong\u2010Hwan Lee"
+  - "Yao\u2010Cheng Lin"
+  - "M\xE5rten Lind"
+  - Erika Lindquist
+  - Vincent Lombard
+  - Susan Lucas
+  - "Karl Lund\xE9n"
+  - Emmanuelle Morin
+  - Claude Murat
+  - Jongsun Park
+  - Tommaso Raffaello
+  - "Pierre Rouz\xE9"
+  - Asaf Salamov
+  - Jeremy Schmutz
+  - Halvor Solheim
+  - "Jerry St\xE5hlberg"
+  - "Heriberto V\xE9l\xEBz"
+  - Ronald P. de Vries
+  - Ad Wiebenga
+  - Steve Woodward
+  - Igor Yakovlev
+  - Matteo Garbelotto
+  - Francis Martin
+  - Igor V. Grigoriev
+  - Jan Stenlid
+  publisher: New Phytologist
+  date: '2012-03-28'
+  link: https://doi.org/f23wf5
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-12-368
+  title: Development and implementation of a highly-multiplexed SNP array for genetic
+    mapping in maritime pine and comparative mapping with loblolly pine
+  authors:
+  - Emilie Chancerel
+  - Camille Lepoittevin
+  - "Gr\xE9goire Le Provost"
+  - Yao-Cheng Lin
+  - Juan Pablo Jaramillo-Correa
+  - Andrew J Eckert
+  - Jill L Wegrzyn
+  - Diana Zelenika
+  - Anne Boland
+  - Jean-Marc Frigerio
+  - Philippe Chaumeil
+  - "Pauline Garnier-G\xE9r\xE9"
+  - Christophe Boury
+  - Delphine Grivet
+  - "Santiago C Gonz\xE1lez-Mart\xEDnez"
+  - "Pierre Rouz\xE9"
+  - Yves Van de Peer
+  - David B Neale
+  - Maria T Cervera
+  - Antoine Kremer
+  - Christophe Plomion
+  publisher: BMC Genomics
+  date: '2011-07-18'
+  link: https://doi.org/bnq3s7
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1019315108
+  title: Obligate biotrophy features unraveled by the genomic analysis of rust fungi
+  authors:
+  - "S\xE9bastien Duplessis"
+  - Christina A. Cuomo
+  - Yao-Cheng Lin
+  - Andrea Aerts
+  - Emilie Tisserant
+  - Claire Veneault-Fourrey
+  - David L. Joly
+  - "St\xE9phane Hacquard"
+  - "Jo\xEBlle Amselem"
+  - Brandi L. Cantarel
+  - Readman Chiu
+  - Pedro M. Coutinho
+  - Nicolas Feau
+  - Matthew Field
+  - Pascal Frey
+  - Eric Gelhaye
+  - Jonathan Goldberg
+  - Manfred G. Grabherr
+  - Chinnappa D. Kodira
+  - Annegret Kohler
+  - "Ursula K\xFCes"
+  - Erika A. Lindquist
+  - Susan M. Lucas
+  - Rohit Mago
+  - Evan Mauceli
+  - Emmanuelle Morin
+  - Claude Murat
+  - Jasmyn L. Pangilinan
+  - Robert Park
+  - Matthew Pearson
+  - Hadi Quesneville
+  - Nicolas Rouhier
+  - Sharadha Sakthikumar
+  - Asaf A. Salamov
+  - Jeremy Schmutz
+  - Benjamin Selles
+  - Harris Shapiro
+  - Philippe Tanguay
+  - Gerald A. Tuskan
+  - Bernard Henrissat
+  - Yves Van de Peer
+  - "Pierre Rouz\xE9"
+  - Jeffrey G. Ellis
+  - Peter N. Dodds
+  - Jacqueline E. Schein
+  - Shaobin Zhong
+  - Richard C. Hamelin
+  - Igor V. Grigoriev
+  - Les J. Szabo
+  - Francis Martin
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2011-05-02'
+  link: https://doi.org/bqxw29
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nbt.1544
+  title: Genome sequence of the recombinant protein production host Pichia pastoris
+  authors:
+  - Kristof De Schutter
+  - Yao-Cheng Lin
+  - Petra Tiels
+  - Annelies Van Hecke
+  - Sascha Glinka
+  - Jacqueline Weber-Lehmann
+  - "Pierre Rouz\xE9"
+  - Yves Van de Peer
+  - Nico Callewaert
+  publisher: Nature Biotechnology
+  date: '2009-05-24'
+  link: https://doi.org/d3dqc9
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1104/pp.109.138123
+  title: Oil Bodies and Oleosins in <i>Physcomitrella</i> Possess Characteristics
+    Representative of Early Trends in Evolution
+  authors:
+  - Chien-Yu Huang
+  - Chun-I Chung
+  - Yao-Cheng Lin
+  - Yue-Ie Caroline Hsing
+  - Anthony H.C. Huang
+  publisher: Plant Physiology
+  date: '2009-05-06'
+  link: https://doi.org/ckg9gx
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1475-2859-8-53
+  title: 'Open access to sequence: Browsing the Pichia pastoris genome'
+  authors:
+  - Diethard Mattanovich
+  - Nico Callewaert
+  - "Pierre Rouz\xE9"
+  - Yao-Cheng Lin
+  - Alexandra Graf
+  - Andreas Redl
+  - Petra Tiels
+  - Brigitte Gasser
+  - Kristof De Schutter
+  publisher: Microbial Cell Factories
+  date: '2009-01-01'
+  link: https://doi.org/bxvf4c
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature06556
+  title: The genome of Laccaria bicolor provides insights into mycorrhizal symbiosis
+  authors:
+  - F. Martin
+  - A. Aerts
+  - "D. Ahr\xE9n"
+  - A. Brun
+  - E. G. J. Danchin
+  - F. Duchaussoy
+  - J. Gibon
+  - A. Kohler
+  - E. Lindquist
+  - V. Pereda
+  - A. Salamov
+  - H. J. Shapiro
+  - J. Wuyts
+  - D. Blaudez
+  - "M. Bu\xE9e"
+  - P. Brokstein
+  - "B. Canb\xE4ck"
+  - D. Cohen
+  - P. E. Courty
+  - P. M. Coutinho
+  - C. Delaruelle
+  - J. C. Detter
+  - A. Deveau
+  - S. DiFazio
+  - S. Duplessis
+  - L. Fraissinet-Tachet
+  - E. Lucic
+  - P. Frey-Klett
+  - C. Fourrey
+  - I. Feussner
+  - G. Gay
+  - J. Grimwood
+  - P. J. Hoegger
+  - P. Jain
+  - S. Kilaru
+  - "J. Labb\xE9"
+  - Y. C. Lin
+  - "V. Legu\xE9"
+  - F. Le Tacon
+  - R. Marmeisse
+  - D. Melayah
+  - B. Montanini
+  - M. Muratet
+  - U. Nehls
+  - H. Niculita-Hirzel
+  - M. P. Oudot-Le Secq
+  - M. Peter
+  - H. Quesneville
+  - B. Rajashekar
+  - M. Reich
+  - N. Rouhier
+  - J. Schmutz
+  - T. Yin
+  - M. Chalot
+  - B. Henrissat
+  - "U. K\xFCes"
+  - S. Lucas
+  - Y. Van de Peer
+  - G. K. Podila
+  - A. Polle
+  - P. J. Pukkila
+  - P. M. Richardson
+  - "P. Rouz\xE9"
+  - I. R. Sanders
+  - J. E. Stajich
+  - A. Tunlid
+  - G. Tuskan
+  - I. V. Grigoriev
+  publisher: Nature
+  date: '2008-03-01'
+  link: https://doi.org/c3txmw
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkm978
+  title: 'The Rice Annotation Project Database (RAP-DB): 2008 update'
+  authors: []
+  publisher: Nucleic Acids Research
+  date: '2007-12-23'
+  link: https://doi.org/djjn6k
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- title: A repetitive sequence specific to Oryza species with BB genome and abundant
+    in Oryza punctata Kotschy ex Steud
+  publisher: BOTANICAL STUDIES
+  date: '2022-05-24'
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A rice gene activation/knockout mutant resource for high throughput functional
+    genomics
+  publisher: PLANT MOLECULAR BIOLOGY
+  date: '2022-05-24'
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A rice phenomics study-phenotype scoring and seed propagation of a T-DNA
+    insertion-induced rice mutant population
+  publisher: PLANT MOLECULAR BIOLOGY
+  date: '2022-05-24'
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.5509507
+  title: Curated genome annotation of<i>Oryza sativa</i>ssp.<i>japonica</i>and comparative
+    genome analysis with<i>Arabidopsis thaliana</i>
+  authors:
+  - Takeshi Itoh
+  - Tsuyoshi Tanaka
+  - Roberto A. Barrero
+  - Chisato Yamasaki
+  - Yasuyuki Fujii
+  - Phillip B. Hilton
+  - Baltazar A. Antonio
+  - Hideo Aono
+  - Rolf Apweiler
+  - Richard Bruskiewich
+  - Thomas Bureau
+  - Frances Burr
+  - Antonio Costa de Oliveira
+  - Galina Fuks
+  - Takuya Habara
+  - Georg Haberer
+  - Bin Han
+  - Erimi Harada
+  - Aiko T. Hiraki
+  - Hirohiko Hirochika
+  - Douglas Hoen
+  - Hiroki Hokari
+  - Satomi Hosokawa
+  - Yue Hsing
+  - Hiroshi Ikawa
+  - Kazuho Ikeo
+  - Tadashi Imanishi
+  - Yukiyo Ito
+  - Pankaj Jaiswal
+  - Masako Kanno
+  - Yoshihiro Kawahara
+  - Toshiyuki Kawamura
+  - Hiroaki Kawashima
+  - Jitendra P. Khurana
+  - Shoshi Kikuchi
+  - Setsuko Komatsu
+  - Kanako O. Koyanagi
+  - Hiromi Kubooka
+  - Damien Lieberherr
+  - Yao-Cheng Lin
+  - David Lonsdale
+  - Takashi Matsumoto
+  - Akihiro Matsuya
+  - W. Richard McCombie
+  - Joachim Messing
+  - Akio Miyao
+  - Nicola Mulder
+  - Yoshiaki Nagamura
+  - Jongmin Nam
+  - Nobukazu Namiki
+  - Hisataka Numa
+  - Shin Nurimoto
+  - "Claire O\u2019Donovan"
+  - Hajime Ohyanagi
+  - Toshihisa Okido
+  - Satoshi OOta
+  - Naoki Osato
+  - Lance E. Palmer
+  - Francis Quetier
+  - Saurabh Raghuvanshi
+  - Naomi Saichi
+  - Hiroaki Sakai
+  - Yasumichi Sakai
+  - Katsumi Sakata
+  - Tetsuya Sakurai
+  - Fumihiko Sato
+  - Yoshiharu Sato
+  - Heiko Schoof
+  - Motoaki Seki
+  - Michie Shibata
+  - Yuji Shimizu
+  - Kazuo Shinozaki
+  - Yuji Shinso
+  - Nagendra K. Singh
+  - Brian Smith-White
+  - Jun-ichi Takeda
+  - Motohiko Tanino
+  - Tatiana Tatusova
+  - Supat Thongjuea
+  - Fusano Todokoro
+  - Mika Tsugane
+  - Akhilesh K. Tyagi
+  - Apichart Vanavichit
+  - Aihui Wang
+  - Rod A. Wing
+  - Kaori Yamaguchi
+  - Mayu Yamamoto
+  - Naoyuki Yamamoto
+  - Yeisoo Yu
+  - Hao Zhang
+  - Qiang Zhao
+  - Kenichi Higo
+  - Benjamin Burr
+  - Takashi Gojobori
+  - Takuji Sasaki
+  publisher: Genome Research
+  date: '2007-01-08'
+  link: https://doi.org/bgdnvr
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- title: Detection of SNPs between Tainung 67 and Nipponbare rice cultivars
+  publisher: BOTANICAL STUDIES
+  date: '2022-05-24'
+  orcid: 0000-0002-9390-795X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature03895
+  title: The map-based sequence of the rice genome
+  authors:
+  - Takuji Sasaki
+  publisher: Nature
+  date: '2005-08-01'
+  link: https://doi.org/fwm78x
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/gbe/evv044
+  title: Genome-Wide Analysis Reveals Diverged Patterns of Codon Bias, Gene Expression,
+    and Rates of Sequence Evolution in Picea Gene Families
+  authors:
+  - Amanda R. De La Torre
+  - Yao-Cheng Lin
+  - Yves Van de Peer
+  - "P\xE4r K. Ingvarsson"
+  publisher: Genome Biology and Evolution
+  date: '2015-03-05'
+  link: https://doi.org/f3mwx6
+  orcid: 0000-0002-9390-795X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.04.24.590919
+  title: 'StomaVision: stomatal trait analysis through deep learning'
+  authors:
+  - Ting-Li Wu
+  - Po-Yu Chen
+  - Xiaofei Du
+  - Heiru Wu
+  - Jheng-Yang Ou
+  - Po-Xing Zheng
+  - Yu-Lin Wu
+  - Ruei-Shiuan Wang
+  - Te-Chang Hsu
+  - Chen-Yu Lin
+  - Wei-Yang Lin
+  - Ping-Lin Chang
+  - Chin-Min Kimmy Ho
+  - Yao-Cheng Lin
+  publisher: openRxiv
+  date: '2024-04-28'
+  link: https://doi.org/hcqvmb
+  orcid: 0009-0003-8596-9047
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1094/pdis-09-22-2198-a
+  title: Complete Genome Sequence Resource of <i>Pectobacterium colocasium</i> Strain
+    F1-1 that Causes Soft Rot Disease of Taro
+  authors:
+  - Chien-Jui Huang
+  - Ting-Li Wu
+  - Po-Xing Zheng
+  - Jheng-Yang Ou
+  - Chao-Ling Ting
+  - Yao-Cheng Lin
+  publisher: Plant Disease
+  date: '2023-06-01'
+  link: https://doi.org/hcqvj5
+  orcid: 0000-0002-2018-9387
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.11.02.466947
+  title: DNA-free CRISPR-Cas9 gene editing of tetraploid tomatoes using protoplast
+    regeneration
+  authors:
+  - Chen-Tran Hsu
+  - Yu-Hsuan Yuan
+  - Po-Xing Zheng
+  - Fu-Hui Wu
+  - Qiao-Wei Cheng
+  - Yu-Lin Wu
+  - Steven Lin
+  - Jin-Jun Yue
+  - Ying-Huey Cheng
+  - Shu-I Lin
+  - Ming-Che Shih
+  - Jen Sheen
+  - Yao-Cheng Lin
+  - Choun-Sea Lin
+  publisher: openRxiv
+  date: '2021-11-02'
+  link: https://doi.org/hcqvmc
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2020.00117
+  title: Nicotinamide Increases Intracellular NAD+ Content to Enhance Autophagy-Mediated
+    Group A Streptococcal Clearance in Endothelial Cells
+  authors:
+  - Cheng-Lu Hsieh
+  - Shu-Ying Hsieh
+  - Hsuan-Min Huang
+  - Shiou-Ling Lu
+  - Hiroko Omori
+  - Po-Xing Zheng
+  - Yen-Ning Ho
+  - Yi-Lin Cheng
+  - Yee-Shin Lin
+  - Chuan Chiang-Ni
+  - Pei-Jane Tsai
+  - Shu-Ying Wang
+  - Ching-Chuan Liu
+  - Takeshi Noda
+  - Jiunn-Jong Wu
+  publisher: Frontiers in Microbiology
+  date: '2020-02-11'
+  link: https://doi.org/ggm9j5
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2018.01733
+  title: NAD-Glycohydrolase Depletes Intracellular NAD+ and Inhibits Acidification
+    of Autophagosomes to Enhance Multiplication of Group A Streptococcus in Endothelial
+    Cells
+  authors:
+  - Cheng-Lu Hsieh
+  - Hsuan-Min Huang
+  - Shu-Ying Hsieh
+  - Po-Xing Zheng
+  - Yee-Shin Lin
+  - Chuan Chiang-Ni
+  - Pei-Jane Tsai
+  - Shu-Ying Wang
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Frontiers in Microbiology
+  date: '2018-08-03'
+  link: https://doi.org/gd4fmt
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2018.01595
+  title: Characterization of CRISPR-Cas Systems in Clinical Klebsiella pneumoniae
+    Isolates Uncovers Its Potential Association With Antibiotic Susceptibility
+  authors:
+  - Hsin-Yu Li
+  - Cheng-Yen Kao
+  - Wei-Hung Lin
+  - Po-Xing Zheng
+  - Jing-Jou Yan
+  - Ming-Cheng Wang
+  - Ching-Hao Teng
+  - Chin-Chung Tseng
+  - Jiunn-Jong Wu
+  publisher: Frontiers in Microbiology
+  date: '2018-07-16'
+  link: https://doi.org/gdzgrx
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmii.2016.12.010
+  title: Highly prevalent emmSTG840.0 and emmSTC839.0 types of erythromycin non-susceptible
+    group G Streptococcus isolated from bacteremia in southern Taiwan
+  authors:
+  - Po-Xing Zheng
+  - Yuen-Chi Chan
+  - Chien-Shun Chiou
+  - Cheng-Lu Hsieh
+  - Chuan Chiang-Ni
+  - Jiunn-Jong Wu
+  publisher: Journal of Microbiology, Immunology and Infection
+  date: '2017-12-01'
+  link: https://doi.org/hcqvmd
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.01290-17
+  title: Complete Genome Sequence of Bacillus cereus C1L, a Plant Growth-Promoting
+    Rhizobacterium from the Rhizosphere of Formosa Lily in Taiwan
+  authors:
+  - Chien-Jui Huang
+  - Po-Xing Zheng
+  - Jheng-Yang Ou
+  - Yao-Cheng Lin
+  - Chao-Ying Chen
+  publisher: Genome Announcements
+  date: '2017-11-16'
+  link: https://doi.org/hcqvmf
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/mbio.00899-17
+  title: Galectin-3 Inhibits Galectin-8/Parkin-Mediated Ubiquitination of Group A
+    Streptococcus
+  authors:
+  - Yi-Lin Cheng
+  - Yan-Wei Wu
+  - Chih-Feng Kuo
+  - Shiou-Ling Lu
+  - Fu-Tong Liu
+  - Robert Anderson
+  - Chiou-Feng Lin
+  - Yi-Ling Liu
+  - Wan-Yu Wang
+  - Ying-Da Chen
+  - Po-Xing Zheng
+  - Jiunn-Jong Wu
+  - Yee-Shin Lin
+  publisher: mBio
+  date: '2017-09-06'
+  link: https://doi.org/gbpnbx
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jgar.2017.05.006
+  title: Multilocus sequence typing of carbapenemase-producing Enterobacter cloacae
+    bloodstream isolates between 2002 and 2013 in a Taiwanese university hospital
+  authors:
+  - Hung-Mo Chen
+  - Po-Xing Zheng
+  - Li-Rong Wang
+  - Jiunn-Jong Wu
+  - Jing-Jou Yan
+  publisher: Journal of Global Antimicrobial Resistance
+  date: '2017-06-01'
+  link: https://doi.org/hcqvmg
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.00066-17
+  title: Complete Genome Sequence of Carbapenem-Resistant Klebsiella pneumoniae Strain
+    1756, Isolated from a Pus Specimen
+  authors:
+  - Cheng-Yen Kao
+  - Jing-Jou Yan
+  - Yu-Chun Lin
+  - Po-Xing Zheng
+  - Jiunn-Jong Wu
+  publisher: Genome Announcements
+  date: '2017-03-30'
+  link: https://doi.org/hcqvmh
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.01403-16
+  title: Complete Genome Sequence of Community-Acquired Klebsiella pneumoniae KP36,
+    a Strain Isolated from a Patient with an Upper Urinary Tract Infection
+  authors:
+  - Wei-Hung Lin
+  - Po-Xing Zheng
+  - Tsunglin Liu
+  - Chin-Chung Tseng
+  - Wei-Chu Chen
+  - Ming-Cheng Wang
+  - Jiunn-Jong Wu
+  publisher: Genome Announcements
+  date: '2016-12-29'
+  link: https://doi.org/hcqvmj
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmii.2014.04.014
+  title: Lactobacillus pentosus strain LPS16 produces lactic acid, inhibiting multidrug-resistant
+    Helicobacter pylori
+  authors:
+  - Po-Xing Zheng
+  - Hsin-Yi Fang
+  - Hsiao-Bai Yang
+  - Nai-Yueh Tien
+  - Ming-Cheng Wang
+  - Jiunn-Jong Wu
+  publisher: Journal of Microbiology, Immunology and Infection
+  date: '2016-04-01'
+  link: https://doi.org/f8wjrd
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JCM.02089-15
+  title: "Epidemiology Analysis of Streptococcus pyogenes in a Hospital in Southern\
+    \ Taiwan by Use of the Updated\n            <i>emm</i>\n            Cluster Typing\
+    \ System"
+  authors:
+  - Chuan Chiang-Ni
+  - Po-Xing Zheng
+  - Shu-Ying Wang
+  - Pei-Jane Tsai
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Journal of Clinical Microbiology
+  date: '2016-01-01'
+  link: https://doi.org/f757nh
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nmni.2015.01.002
+  title: Associations of the major international high-risk resistant clones and virulent
+    clones with specific ompK36 allele groups in Klebsiella pneumoniae in Taiwan
+  authors:
+  - J.J. Yan
+  - M.C. Wang
+  - P.X. Zheng
+  - L.H. Tsai
+  - J.J. Wu
+  publisher: New Microbes and New Infections
+  date: '2015-05-01'
+  link: https://doi.org/hcqvmk
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JCM.01152-15
+  title: Allocation of Klebsiella pneumoniae Bloodstream Isolates into Four Distinct
+    Groups by<i>ompK36</i>Typing in a Taiwanese University Hospital
+  authors:
+  - Jing-Jou Yan
+  - Po-Xing Zheng
+  - Ming-Cheng Wang
+  - Shu-Huei Tsai
+  - Li-Rong Wang
+  - Jiunn-Jong Wu
+  publisher: Journal of Clinical Microbiology
+  date: '2015-10-01'
+  link: https://doi.org/f72q35
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0145223
+  title: Clustered Regularly Interspaced Short Palindromic Repeats Are emm Type-Specific
+    in Highly Prevalent Group A Streptococci
+  authors:
+  - Po-Xing Zheng
+  - Yuen-Chi Chan
+  - Chien-Shun Chiou
+  - Chuan Chiang-Ni
+  - Shu-Ying Wang
+  - Pei-Jane Tsai
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: PLOS ONE
+  date: '2015-12-28'
+  link: https://doi.org/hcqvmm
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1469-0691.12379
+  title: Arrangement and number of clustered regularly interspaced short palindromic
+    repeat spacers are associated with erythromycin susceptibility in emm12, emm75
+    and emm 92 of group A streptococcus
+  authors:
+  - P.-X. Zheng
+  - C. Chiang-Ni
+  - S.-Y. Wang
+  - P.-J. Tsai
+  - C.-F. Kuo
+  - W.-J. Chuang
+  - Y.-S. Lin
+  - C.-C. Liu
+  - J.-J. Wu
+  publisher: Clinical Microbiology and Infection
+  date: '2014-06-01'
+  link: https://doi.org/f6csbr
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomeA.00149-12
+  title: "Complete Genome Sequence of\n            <i>emm</i>\n            1 Streptococcus\
+    \ pyogenes A20, a Strain with an Intact Two-Component System, CovRS, Isolated\
+    \ from a Patient with Necrotizing Fasciitis"
+  authors:
+  - Po-Xing Zheng
+  - Kun-Ta Chung
+  - Chuan Chiang-Ni
+  - Shu-Ying Wang
+  - Pei-Jane Tsai
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Genome Announcements
+  date: '2013-02-28'
+  link: https://doi.org/hcqvmn
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2049-632X.12114
+  title: Invasive hypermucoid variant of group A<i>Streptococcus</i>is defective in
+    growth and susceptible to DNA-damaging treatments
+  authors:
+  - Chuan Chiang-Ni
+  - Po-Xing Zheng
+  - Shuying Wang
+  - Pei-Jane Tsai
+  - Chih-Feng Kuo
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Pathogens and Disease
+  date: '2013-12-16'
+  link: https://doi.org/f52w55
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0081882
+  title: Peroxide Responsive Regulator PerR of group A Streptococcus Is Required for
+    the Expression of Phage-Associated DNase Sda1 under Oxidative Stress
+  authors:
+  - Chih-Hung Wang
+  - Chuan Chiang-Ni
+  - Hsin-Tzu Kuo
+  - Po-Xing Zheng
+  - Chih-Cheng Tsou
+  - Shuying Wang
+  - Pei-Jane Tsai
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: PLoS ONE
+  date: '2013-12-03'
+  link: https://doi.org/ghdrjc
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jmm.0.036012-0
+  title: Environmental pH changes, but not the LuxS signalling pathway, regulate SpeB
+    expression in M1 group A streptococci
+  authors:
+  - Chuan Chiang-Ni
+  - Po-Xing Zheng
+  - Pei-Jane Tsai
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Journal of Medical Microbiology
+  date: '2012-01-01'
+  link: https://doi.org/d57zzm
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s15010-010-0049-5
+  title: Clinical and microbiological characteristics of Klebsiella pneumoniae isolates
+    causing community-acquired urinary tract infections
+  authors:
+  - W.-H. Lin
+  - M.-C. Wang
+  - C.-C. Tseng
+  - W.-C. Ko
+  - A.-B. Wu
+  - P.-X. Zheng
+  - J.-J. Wu
+  publisher: Infection
+  date: '2010-08-24'
+  link: https://doi.org/dmd4k5
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JCM.00202-09
+  title: <i>emm1</i>/Sequence Type 28 Strains of Group A Streptococci That Express<i>covR</i>at
+    Early Stationary Phase Are Associated with Increased Growth and Earlier SpeB Secretion
+  authors:
+  - Chuan Chiang-Ni
+  - Po-Xing Zheng
+  - Yueh-Ren Ho
+  - Hsiu-Mei Wu
+  - Woei-Jer Chuang
+  - Yee-Shin Lin
+  - Ming-T. Lin
+  - Ching-Chuan Liu
+  - Jiunn-Jong Wu
+  publisher: Journal of Clinical Microbiology
+  date: '2009-10-01'
+  link: https://doi.org/b5kvtp
+  orcid: 0000-0001-5827-5865
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.envexpbot.2025.106288
+  title: Physiological and transcriptomic dissection of submergence tolerance in cabbage
+    highlights ERF-VII and N-degron regulation
+  authors:
+  - Shih-Jie Huang
+  - Yu-Lin Wu
+  - Hsuan-Ting Liu
+  - Tze-Ching Chan
+  - Chun-Hao Hu
+  - Chi-Ling Ku
+  - Fu-Chiun Hsu
+  publisher: Environmental and Experimental Botany
+  date: '2026-01-01'
+  link: https://doi.org/hcqvmp
+  orcid: 0009-0003-8596-9047
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.stress.2026.101259
+  title: Piriformospora indica volatile organic compounds enhance Arabidopsis root
+    growth by modulating iron deficiency responses via a NO-regulated pathway
+  authors:
+  - Pin-Jie Huang
+  - Chiao-Wen Huang
+  - Zhen-Rong Cai
+  - Yu-Zhen Chen
+  - Hieng-Ming Ting
+  - Yao-Cheng Lin
+  - Wei-Chao Lin
+  - Masaru Ohme-Takagi
+  - Dewi Sukma
+  - Chiu-Ping Cheng
+  - Shu-Jen Wang
+  - Kai-Wun Yeh
+  - Ming-Tsair Chan
+  publisher: Plant Stress
+  date: '2026-03-01'
+  link: https://doi.org/hcqvmq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2025.1718089
+  title: Comparative genomics reveals the genomic basis of race T2 emergence and heavy
+    metal resistance in Xanthomonas euvesicatoria pv. perforans
+  authors:
+  - Chien-Jui Huang
+  - Ting-Li Wu
+  - Yu-Han Lin
+  - Yao-Cheng Lin
+  publisher: Frontiers in Microbiology
+  date: '2026-01-20'
+  link: https://doi.org/hcqvmr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.stress.2025.101029
+  title: SlbHLH053 and AtMSRB5 synergistically enhance salt tolerance in transgenic
+    tomatoes
+  authors:
+  - Freta Kirana Balladona
+  - Chia-Wen Li
+  - Yao-Cheng Lin
+  - Zhen-Rong Cai
+  - Tsun Ho Lan
+  - Masaru Ohme-Takagi
+  - Dewi Sukma
+  - Ming-Tsair Chan
+  publisher: Plant Stress
+  date: '2025-12-01'
+  link: https://doi.org/hcqvms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2024.1487917
+  title: Comparative genomic analysis uncovered phylogenetic diversity, evolution
+    of virulence factors, and horizontal gene transfer events in tomato bacterial
+    spot Xanthomonas euvesicatoria
+  authors:
+  - Chien-Jui Huang
+  - Ting-Li Wu
+  - Yu-Lin Wu
+  - Ruei-Shiuan Wang
+  - Yao-Cheng Lin
+  publisher: Frontiers in Microbiology
+  date: '2024-11-05'
+  link: https://doi.org/hcqvmt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/plphys/kiac061
+  title: "CRISPR keeps going \u201Cwild\u201D: a new protocol for DNA-free genome\
+    \ editing of tetraploid wild tomatoes"
+  authors:
+  - Dhineshkumar Thiruppathi
+  publisher: Plant Physiology
+  date: '2022-03-04'
+  link: https://doi.org/hcqvmv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11042-021-11886-w
+  title: 'Toward automatic plant phenotyping: starting from leaf counting'
+  authors:
+  - Yi-Lin Tu
+  - Wei-Yang Lin
+  - Yao-Cheng Lin
+  publisher: Multimedia Tools and Applications
+  date: '2022-01-26'
+  link: https://doi.org/hcqvmw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/513408
+  title: "Reference genome for the WHO reference strain for\n                  <i>Mycobacterium\
+    \ bovis</i>\n                  BCG Danish, the present tuberculosis vaccine"
+  authors:
+  - Katlyn Borgers
+  - Jheng-Yang Ou
+  - Po-Xing Zheng
+  - Petra Tiels
+  - Annelies Van Hecke
+  - Evelyn Plets
+  - Gitte Michielsen
+  - Nele Festjens
+  - Nico Callewaert
+  - Yao-Cheng Lin
+  publisher: openRxiv
+  date: '2019-01-07'
+  link: https://doi.org/gkwq8t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/genomeA.01290-17
+  title: Complete Genome Sequence of Bacillus cereus C1L, a Plant Growth-Promoting
+    Rhizobacterium from the Rhizosphere of Formosa Lily in Taiwan
+  authors:
+  - Chien-Jui Huang
+  - Po-Xing Zheng
+  - Jheng-Yang Ou
+  - Yao-Cheng Lin
+  - Chao-Ying Chen
+  publisher: Genome Announcements
+  date: '2017-11-16'
+  link: https://doi.org/hcqvmf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12863-015-0304-y
+  title: Comparative in silico analysis of SSRs in coding regions of high confidence
+    predicted genes in Norway spruce (Picea abies) and Loblolly pine (Pinus taeda)
+  authors:
+  - Sonali Sachin Ranade
+  - Yao-Cheng Lin
+  - Yves Van de Peer
+  - "Mar\xEDa Rosario Garc\xEDa-Gil"
+  publisher: BMC Genetics
+  date: '2015-12-01'
+  link: https://doi.org/f3p32n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0139080
+  title: 'Serendipitous Meta-Transcriptomics: The Fungal Community of Norway Spruce
+    (Picea abies)'
+  authors:
+  - Nicolas Delhomme
+  - "G\xF6rel Sundstr\xF6m"
+  - Neda Zamani
+  - Henrik Lantz
+  - Yao-Cheng Lin
+  - Torgeir R. Hvidsten
+  - "Marc P. H\xF6ppner"
+  - Patric Jern
+  - Yves Van de Peer
+  - Joakim Lundeberg
+  - Manfred G. Grabherr
+  - Nathaniel R. Street
+  publisher: PLOS ONE
+  date: '2015-09-28'
+  link: https://doi.org/f3m8d5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.13557
+  title: "The Plant Genome Integrative Explorer Resource: PlantGen\n             \
+    \       <scp>IE</scp>\n                    .org"
+  authors:
+  - David Sundell
+  - Chanaka Mannapperuma
+  - Sergiu Netotea
+  - Nicolas Delhomme
+  - "Yao\u2010Cheng Lin"
+  - "Andreas Sj\xF6din"
+  - Yves Van de Peer
+  - Stefan Jansson
+  - Torgeir R. Hvidsten
+  - Nathaniel R. Street
+  publisher: New Phytologist
+  date: '2015-07-20'
+  link: https://doi.org/f3ppxk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11103-006-9093-z
+  title: A rice gene activation/knockout mutant resource for high throughput functional
+    genomics
+  authors:
+  - Yue-Ie Hsing
+  - Chyr-Guan Chern
+  - Ming-Jen Fan
+  - Po-Chang Lu
+  - Ku-Ting Chen
+  - Shuen-Fang Lo
+  - Peng-Kai Sun
+  - Shin-Lon Ho
+  - Kuo-Wei Lee
+  - Yi-Chieh Wang
+  - Wen-Lii Huang
+  - Swee-Suak Ko
+  - Shu Chen
+  - Jyh-Long Chen
+  - Chun-I Chung
+  - Yao-Cheng Lin
+  - Ai-Ling Hour
+  - Yet-Walt Wang
+  - Ya-Chi Chang
+  - Min-Wei Tsai
+  - Yi-Show Lin
+  - Yin-Chin Chen
+  - Hsing-Mu Yen
+  - Charng-Pei Li
+  - Chiu-Kai Wey
+  - Ching-Shan Tseng
+  - Ming-Hsing Lai
+  - Sheng-Chung Huang
+  - Liang-Jwu Chen
+  - Su-May Yu
+  publisher: Plant Molecular Biology
+  date: '2006-11-21'
+  link: https://doi.org/fppsbr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11103-007-9218-z
+  title: "A rice phenomics study\u2014phenotype scoring and seed propagation of a\
+    \ T-DNA insertion-induced rice mutant population"
+  authors:
+  - Chyr-Guan Chern
+  - Ming-Jen Fan
+  - Su-May Yu
+  - Ai-Ling Hour
+  - Po-Chang Lu
+  - Yao-Cheng Lin
+  - Fu-Jin Wei
+  - Sheng-Chung Huang
+  - Shu Chen
+  - Ming-Hsing Lai
+  - Ching-Shan Tseng
+  - Hsing-Mu Yen
+  - Woei-Shyuan Jwo
+  - Chen-Chia Wu
+  - Tung-Lung Yang
+  - Lung-Sheng Li
+  - Yih-Cheng Kuo
+  - Su-Mien Li
+  - Charng-Pei Li
+  - Chiu-Kai Wey
+  - Arunee Trisiriroj
+  - Hsing-Fang Lee
+  - Yue-Ie C. Hsing
+  publisher: Plant Molecular Biology
+  date: '2007-08-14'
+  link: https://doi.org/bwtkmx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IS3C50286.2020.00058
+  title: Automatic Leaf Counting Using Improved YOLOv3
+  authors:
+  - Yi-Lin Tu
+  - Wei-Yang Lin
+  - Yao-Cheng Lin
+  publisher: 2020 International Symposium on Computer, Consumer and Control (IS3C)
+  date: '2020-11-01'
+  link: https://doi.org/hcqvj9
+  plugin: sources.py
+  file: sources.yaml
+- title: Xenorhabdus taiwanensis sp. nov., a symbiotic bacterium isolated from entomopathogenic
+    nematode Steinernema taiwanensis
+  authors:
+  - Ching-Tzu Tseng
+  - Hung-Yu Shu
+  - Miao-Han Chen
+  - Yi-Jie Fang
+  - Ting-Li Wu
+  - Yao-Cheng Lin
+  - Chien-Jui Huang
+  publisher: "Russian Journal of Nematology 32 (2), 153\u2013162"
+  date: '2024-12-01'
+  link: https://www.russjnematology.com/rjnvol322.htm
+  plugin: sources.py
+  file: sources.yaml
+- title: Detection of SNPs between Tainung 67 and Nipponbare rice cultivars
+  authors:
+  - A.-L. Hour
+  - Y.-C. Lin
+  - P.-F. Li
+  - T.-Y. Chow
+  - W.-F. Lu
+  - F.-J. Wei
+  - Y.-I. Hsing
+  publisher: "Botanical Studies 48, 243\u2013253"
+  date: '2006-01-01'
+  link: https://ejournal.sinica.edu.tw/bbas/content/2007/3/Bot483-02.pdf
+  plugin: sources.py
+  file: sources.yaml
+- title: Fast and accurate cDNA mapping and splice site identification
+  type: paper
+  authors:
+  - M. Vyverman
+  - D. De Smedt
+  - Y.-C. Lin
+  - L. Sterck
+  - B. De Baets
+  - V. Fack
+  - P. Dawyndt
+  publisher: 'Proceedings of BIOSTEC 2014: International Conference on Bioinformatics
+    Models, Methods and Algorithms'
+  date: '2014-01-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: "\u7B2C\u4E8C\u7AE0\u7B2C\u4E09\u7BC0 \u81EA\u52D5\u5316\u4F5C\u7269\u8868\
+    \u578B\u9AD4\u5206\u6790\u5E73\u53F0\u4ECB\u7D39\u53CA\u61C9\u7528 (book chapter)"
+  type: book
+  authors:
+  - "\u6797\u8000\u6B63"
+  publisher: "\u7CBE\u6E96\u80B2\u7A2E\u79D1\u6280\u4E4B\u61C9\u7528\u53CA\u767C\u5C55\
+    , \u4E2D\u8208\u5927\u5B78\u7CBE\u6E96\u8FB2\u696D\u6559\u5B78\u63A8\u52D5\u4E2D\
+    \u5FC3"
+  date: '2023-01-01'
+  link: https://drive.google.com/file/d/170amonxiL0vi2qTXQhFEt-xYP5eXdov4/view?usp=sharing
+  plugin: sources.py
+  file: sources.yaml
+- title: "\u7B2C\u4E09\u7AE0\u7B2C\u4E8C\u7BC0 \u8F49\u9304\u9AD4\u5B78\u5206\u6790\
+    \u6280\u8853\u65BC\u4F5C\u7269\u4E4B\u61C9\u7528 (book chapter)"
+  type: book
+  authors:
+  - "\u6797\u8000\u6B63"
+  publisher: "\u524D\u77BB\u57FA\u56E0\u9AD4\u5B78\u6280\u8853\u65BC\u8FB2\u696D\u9818\
+    \u57DF\u4E4B\u7814\u767C\u61C9\u7528\u8207\u5C55\u671B (pp. 167\u2013185), \u81FA\
+    \u5927\u52D5\u690D\u7269\u8FB2\u696D\u7522\u696D\u5275\u65B0\u6559\u5B78\u63A8\
+    \u52D5\u4E2D\u5FC3"
+  date: '2020-01-01'
+  link: https://drive.google.com/file/d/1ZIj3RaG1dzGFOXjLDQCT9UxPAE62hTRq/view?usp=sharing
+  plugin: sources.py
+  file: sources.yaml
