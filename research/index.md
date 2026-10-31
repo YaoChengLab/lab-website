@@ -27,7 +27,7 @@ An in-house high-performance computing (HPC) cluster is the powerhouse for analy
 
 {%
   include feature.html
-  image="images/research/comparative-genomics.jpg"
+  image="images/research/comparative_genomics.png"
   title="Comparative genomics"
   text=text
 %}

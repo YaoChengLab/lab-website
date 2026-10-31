@@ -57,7 +57,7 @@ We study the molecular mechanisms and evolutionary forces that shape plant genom
 
 {%
   include feature.html
-  image="images/research/comparative-genomics.jpg"
+  image="images/research/comparative-genomics.png"
   link="research"
   title="Our Research"
   text=text
