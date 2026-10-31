@@ -80,7 +80,7 @@ Biologists, computer scientists, statisticians, and plant tamers working togethe
 
 {%
   include feature.html
-  image="images/news/2025-07-01-welcome-2025-summer-interns.jpg"
+  image="images/news/2023-summer_interns.jpg"
   link="team"
   title="Our Team"
   flip=true
