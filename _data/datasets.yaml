@@ -1,0 +1,89 @@
+# Rows of the table on the Resources > Data page.
+# accessions: NCBI BioProject (PRJNA...) or ENA (PRJEB...); links: browsers, downloads, code.
+
+- name: Brassica transposable elements
+  organism: "*Brassica rapa*, *B. oleracea*"
+  paper: Transposable elements drive evolution and perturb gene expression in Brassica rapa and B. oleracea
+  journal: Plant J. 2025
+  doi: 10.1111/tpj.70452
+  accessions:
+    - id: PRJNA884004
+      note: BoA genome
+      link: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA884004
+    - id: PRJNA1205876
+      note: RNA-seq
+      link: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1205876
+  links:
+    - text: JBrowse
+      link: https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/
+    - text: Scripts
+      link: https://github.com/YaoChengLab/Brassica_TE_Family
+    - text: Figshare
+      link: https://doi.org/10.6084/m9.figshare.28151594.v1
+
+- name: DNA-free gene editing of wild tetraploid tomato
+  organism: "*Solanum peruvianum*"
+  paper: DNA-free CRISPR-Cas9 gene editing of wild tetraploid tomato Solanum peruvianum using protoplast regeneration
+  journal: Plant Physiol. 2022
+  doi: 10.1093/plphys/kiac022
+  accessions:
+    - id: PRJNA768623
+      link: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA768623
+
+- name: Targeted DNA insertion
+  organism: "*Nicotiana benthamiana*"
+  paper: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast Regeneration
+  journal: CRISPR J. 2021
+  doi: 10.1089/crispr.2021.0045
+  accessions:
+    - id: PRJNA667297
+      link: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA667297
+
+- name: Citrus canker bacterium genomes
+  organism: "*Xanthomonas citri* subsp. *citri*"
+  paper: Comparative Genomic Analysis Uncovered Evolution of Pathogenicity Factors, Horizontal Gene Transfer Events, and Heavy Metal Resistance Traits in Citrus Canker Bacterium Xanthomonas citri subsp. citri
+  journal: Front. Microbiol. 2021
+  doi: 10.3389/fmicb.2021.731711
+  accessions:
+    - id: PRJNA644481
+      link: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA644481
+
+- name: BCG Danish vaccine strain genomes
+  organism: "*Mycobacterium bovis* BCG"
+  paper: Reference genome and comparative genome analysis for the WHO reference strain for Mycobacterium bovis BCG Danish, the present tuberculosis vaccine
+  journal: BMC Genomics 2019
+  doi: 10.1186/s12864-019-5909-5
+  accessions:
+    - id: PRJNA494982
+      link: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA494982
+  links:
+    - text: Genome browser
+      link: http://bcg.abrc.sinica.edu.tw:443/JBrowse/?data=data/mycobacterial_NIBSC
+    - text: sapM KO browser
+      link: http://bcg.abrc.sinica.edu.tw:443/JBrowse/?data=data/mycobacterial_sapM_KO
+
+- name: Aspen genomes
+  organism: "*Populus tremula*, *P. tremuloides*"
+  paper: Functional and evolutionary genomic inferences in Populus through genome and population sequencing of American and European aspen
+  journal: PNAS 2018
+  doi: 10.1073/pnas.1801437115
+  accessions:
+    - id: PRJEB23585
+      link: https://www.ebi.ac.uk/ena/browser/view/PRJEB23585
+  links:
+    - text: PopGenIE
+      link: http://popgenie.org/
+
+- name: HEK293 cell line genomes
+  organism: Human (HEK293 lineage)
+  paper: Genome dynamics of the human embryonic kidney 293 lineage in response to cell biology manipulations
+  journal: Nat. Commun. 2014
+  doi: 10.1038/ncomms5767
+  accessions:
+    - id: PRJEB3209
+      link: https://www.ebi.ac.uk/ena/browser/view/PRJEB3209
+  links:
+    - text: Genome browser
+      link: http://hek293genome.org/v2/index.php
+    - text: 293T FASTA
+      link: https://storage.googleapis.com/bcgwebpublic/2014_HEK293/FASTA/293T_MAF0.5.fa.bz2

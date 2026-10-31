@@ -40,6 +40,21 @@
       </p>
     {% endif %}
 
+    {% if include.buttons.size > 0 %}
+      <div class="card-buttons">
+        {% for button in include.buttons %}
+          {%
+            include button.html
+            type=button.type
+            icon=button.icon
+            text=button.text
+            link=button.link
+            style="bare"
+          %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}

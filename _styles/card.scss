@@ -50,3 +50,14 @@
   margin-top: -10px !important;
   font-style: italic;
 }
+
+.card-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px 15px;
+}
+
+.card-buttons .button {
+  margin: 0;
+}

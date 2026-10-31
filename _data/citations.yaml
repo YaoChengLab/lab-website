@@ -23,6 +23,13 @@
   jheng-yang-ou: true
   ting-li-wu: true
   yu-lin-wu: true
+  buttons:
+  - type: github
+    text: Code
+    link: YaoChengLab/pxgpt
+  - type: docs
+    text: Guide
+    link: resources/tools-data/pxGPT/
 - id: doi:10.1073/pnas.2511842122
   title: "Chromosomal deletions in banana somaclonal variants reveal negative regulators\
     \ of immunity underlying\n                    <i>Fusarium</i>\n              \
@@ -90,6 +97,16 @@
   file: sources.yaml
   po-xing-zheng: true
   jheng-yang-ou: true
+  buttons:
+  - type: link
+    text: JBrowse
+    link: https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/
+  - type: github
+    text: Code
+    link: YaoChengLab/Brassica_TE_Family
+  - type: data
+    text: Data
+    link: resources/data/
 - id: doi:10.1016/j.iot.2025.101617
   title: An intelligent plant watering decision support system for drought monitoring
     &amp; analysis based on AIoT and an LSTM time-series framework
@@ -224,6 +241,10 @@
   plugin: sources.py
   file: sources.yaml
   po-xing-zheng: true
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
 - id: doi:10.1089/crispr.2021.0045
   title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
     Regeneration
@@ -245,6 +266,10 @@
   yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
 - id: doi:10.3389/fmicb.2021.731711
   title: Comparative Genomic Analysis Uncovered Evolution of Pathogenicity Factors,
     Horizontal Gene Transfer Events, and Heavy Metal Resistance Traits in Citrus Canker
@@ -266,6 +291,10 @@
   file: sources.yaml
   po-xing-zheng: true
   ting-li-wu: true
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
 - id: doi:10.1101/2021.03.09.434087
   title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
     Regeneration
@@ -325,6 +354,13 @@
   file: sources.yaml
   po-xing-zheng: true
   jheng-yang-ou: true
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
+  - type: link
+    text: Genome browser
+    link: http://bcg.abrc.sinica.edu.tw:443/JBrowse/?data=data/mycobacterial_NIBSC
 - id: doi:10.1038/s41598-019-47789-y
   title: Small RNA profiling in Pinus pinaster reveals the transcriptome of developing
     seeds and highlights differences between zygotic and somatic embryos
@@ -412,6 +448,10 @@
   yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
 - title: Complete Genome Sequence of Bacillus cereus C1L, a Plant Growth-Promoting
     Rhizobacterium from the Rhizosphere of Formosa Lily in Taiwan
   publisher: Genome Announcements
@@ -623,6 +663,13 @@
   yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: data
+    text: Data
+    link: resources/data/
+  - type: link
+    text: Genome browser
+    link: http://hek293genome.org/v2/index.php
 - id: doi:10.1186/s12870-014-0220-8
   title: Comparative in silicoanalysis of EST-SSRs in angiosperm and gymnosperm tree
     genera
@@ -1398,6 +1445,13 @@
   jheng-yang-ou: true
   ting-li-wu: true
   yu-lin-wu: true
+  buttons:
+  - type: app
+    text: StomaVision app
+    link: https://stomavision.streamlit.app/
+  - type: github
+    text: Code
+    link: YaoChengLab/StomaVision
 - id: doi:10.1094/pdis-09-22-2198-a
   title: Complete Genome Sequence Resource of <i>Pectobacterium colocasium</i> Strain
     F1-1 that Causes Soft Rot Disease of Taro

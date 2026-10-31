@@ -1,9 +1,6 @@
 ---
 title: Lab only
 permalink: /resources/lab-only/
-nav:
-  order: 7
-  tooltip: Internal links for lab members (Google login or campus network required)
 ---
 
 # {% include icon.html icon="fa-solid fa-lock" %}Lab only

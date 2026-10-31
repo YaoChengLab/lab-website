@@ -1,0 +1,40 @@
+# Cards on the Resources > Facilities page.
+
+- title: Genomics
+  subtitle: Sequencing and library preparation
+  image: images/resources/genomics.jpg
+  link: resources/facilities/#genomics-instruments
+  description: Oxford Nanopore GridION, BioAnalyzer 2100, TapeStation 4150, BluePippin, Covaris S220. Access by arrangement with Dr. Yao-Cheng Lin (ext. 212).
+  buttons:
+    - type: link
+      icon: fa-solid fa-dna
+      text: Instruments
+      link: resources/facilities/#genomics-instruments
+    - type: phone
+      text: Ext. 212
+      link: +886-6-303-2280,212
+
+- title: Phenotyping
+  subtitle: Automatic plant phenotyping
+  image: images/resources/phenotyping.jpg
+  description: Automatic plant phenotyping system in the greenhouse, with computer-vision-assisted analysis.
+
+- title: Dayhoff HPC cluster
+  subtitle: Bioinformatics computing
+  image: images/resources/hpc.jpg
+  link: https://hpc.southerngenomics.org/
+  description: 650 CPU cores and 5.5 TB RAM for genome assembly and large-scale analysis.
+  buttons:
+    - type: server
+      text: Open
+      link: https://hpc.southerngenomics.org/
+
+- title: data4ai
+  subtitle: 讓資料分析不再是研究路上的絆腳石
+  image: images/resources/data4ai.jpg
+  link: https://data4ai.southerngenomics.org/
+  description: Data and AI services for agricultural research.
+  buttons:
+    - type: website
+      text: Open
+      link: https://data4ai.southerngenomics.org/

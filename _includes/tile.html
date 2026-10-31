@@ -1,0 +1,13 @@
+<a
+  href="{{ include.link | relative_url | uri_escape }}"
+  class="tile"
+  aria-label="{{ include.title | regex_strip }}"
+>
+  <span class="tile-icon">
+    {% include icon.html icon=include.icon %}
+  </span>
+  <span class="tile-title">{{ include.title }}</span>
+  {% if include.text %}
+    <span class="tile-text">{{ include.text }}</span>
+  {% endif %}
+</a>

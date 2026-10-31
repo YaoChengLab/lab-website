@@ -1,14 +1,27 @@
 ---
-title: Genomics
-permalink: /resources/genomics/
+title: Facilities
+permalink: /resources/facilities/
+redirect_from:
+  - /resources/genomics/
 ---
 
-# {% include icon.html icon="fa-solid fa-dna" %}Genomics
+# {% include icon.html icon="fa-solid fa-microscope" %}Facilities
 
-We host a comprehensive suite of genomic resources, primarily focused on high-throughput sequencing library preparation.
-For detailed information, please contact Dr. Yao-Cheng Lin (ext. 212).
+Research platforms at the Academia Sinica Southern Campus for genomics, phenotyping, and computing.
+For access or collaboration, please contact Dr. Yao-Cheng Lin (yalin AT sinica.edu.tw, ext. 212).
+
+{% include button.html icon="fa-solid fa-toolbox" text="Tools" link="resources/tools" %}
+{% include button.html icon="fa-solid fa-database" text="Data" link="resources/data" %}
 
 {% include section.html %}
+
+{% include list.html component="card" data="facilities" %}
+
+{% include section.html %}
+
+## Genomics instruments
+
+We host a comprehensive suite of genomic resources, primarily focused on high-throughput sequencing library preparation.
 
 {% capture content %}
 

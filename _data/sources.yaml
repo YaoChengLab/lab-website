@@ -3,29 +3,76 @@
 # Add new papers with just a line like:  - id: doi:10.xxxx/yyyy
 
 - id: doi:10.1093/bioinformatics/btag781
+  buttons:
+    - type: github
+      text: Code
+      link: YaoChengLab/pxgpt
+    - type: docs
+      text: Guide
+      link: resources/tools-data/pxGPT/
 - id: doi:10.1016/j.stress.2026.101259
 - id: doi:10.3389/fmicb.2025.1718089
 - id: doi:10.1073/pnas.2511842122
 - id: doi:10.1093/plphys/kiaf536
 - id: doi:10.1016/j.stress.2025.101029
 - id: doi:10.1111/tpj.70452
+  buttons:
+    - type: link
+      text: JBrowse
+      link: https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/
+    - type: github
+      text: Code
+      link: YaoChengLab/Brassica_TE_Family
+    - type: data
+      text: Data
+      link: resources/data/
 - id: doi:10.1016/j.iot.2025.101617
 - id: doi:10.1101/2024.04.24.590919
+  buttons:
+    - type: app
+      text: StomaVision app
+      link: https://stomavision.streamlit.app/
+    - type: github
+      text: Code
+      link: YaoChengLab/StomaVision
 - id: doi:10.3390/horticulturae10121325
 - id: doi:10.3389/fmicb.2024.1487917
 - id: doi:10.1111/pbi.14285
 - id: doi:10.1094/PDIS-09-22-2198-A
 - id: doi:10.1038/s41598-022-12326-x
 - id: doi:10.1093/plphys/kiac022
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
 - id: doi:10.1093/plphys/kiac061
 - id: doi:10.3389/fmicb.2021.731711
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
 - id: doi:10.1007/s11042-021-11886-w
 - id: doi:10.1089/crispr.2021.0045
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
 - id: doi:10.1038/s41598-019-47789-y
 - id: doi:10.1186/s12864-019-5909-5
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
+    - type: link
+      text: Genome browser
+      link: http://bcg.abrc.sinica.edu.tw:443/JBrowse/?data=data/mycobacterial_NIBSC
 - id: doi:10.1101/513408
 - id: doi:10.1128/MRA.01563-18
 - id: doi:10.1073/pnas.1801437115
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
 - id: doi:10.5598/imafungus.2017.08.02.10
 - id: doi:10.1128/genomeA.01290-17
 - id: doi:10.1111/tpj.13419
@@ -39,6 +86,13 @@
 - id: doi:10.1186/s12870-014-0220-8
 - id: doi:10.1007/s11295-014-0717-1
 - id: doi:10.1038/ncomms5767
+  buttons:
+    - type: data
+      text: Data
+      link: resources/data/
+    - type: link
+      text: Genome browser
+      link: http://hek293genome.org/v2/index.php
 - id: doi:10.1038/nature12221
 - id: doi:10.1038/nature12211
 - id: doi:10.1021/pr400392a

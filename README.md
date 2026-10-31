@@ -21,8 +21,11 @@ Lab members: please email changes (text, photos, ORCID iD) to Yao-Cheng, or open
 | A member's own paper list | `<member-file>: true` on their entry in `_data/orcid.yaml` |
 | News | add `_posts/YYYY-MM-DD-short-title.md` |
 | Team | `_members/<name>.md`, photo in `images/team/` |
-| Tools, data, platforms | `_data/projects.yaml`, pages in `resources/` |
+| Tools (cards, home page row) | `_data/projects.yaml` |
+| Datasets table | `_data/datasets.yaml` |
+| Facilities | `_data/facilities.yaml`, instruments in `resources/facilities.md` |
 | Lab only links | `resources/lab-only.md` |
+| Code/App/Data buttons on a paper | `buttons:` on its entry in `_data/sources.yaml` |
 | Contact | `contact/index.md` |
 | Site title, links, header image | `_config.yaml` |
 

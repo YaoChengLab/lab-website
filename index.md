@@ -23,6 +23,21 @@ If you are interested in joining Dr. Lin's lab or collaborating with him, please
 
 {% include section.html %}
 
+## Tools
+
+{% include list.html component="card" data="projects" filter="home == true" %}
+
+{%
+  include button.html
+  link="resources"
+  text="All tools, data & facilities"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
@@ -50,30 +65,6 @@ We study the molecular mechanisms and evolutionary forces that shape plant genom
 
 {% capture text %}
 
-In alignment with the FAIR principles, our tools and datasets, including pxGPT, StomaVision, and the Brassica TE resource, are openly available to the community.
-
-{%
-  include button.html
-  link="resources"
-  text="Browse tools & data"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/projects/pxgpt.jpg"
-  link="resources"
-  title="Tools & Data"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-
 Biologists, computer scientists, statisticians, and plant tamers working together at the Academia Sinica Southern Campus in Tainan.
 
 {%
@@ -92,6 +83,7 @@ Biologists, computer scientists, statisticians, and plant tamers working togethe
   image="images/news/2025-07-01-welcome-2025-summer-interns.jpg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
 

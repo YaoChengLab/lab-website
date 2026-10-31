@@ -9,4 +9,4 @@ tags:
 
 [Transposable elements drive evolution and perturb gene expression in *Brassica rapa* and *B. oleracea*](https://doi.org/10.1111/tpj.70452)
 
-Data and scripts: [Brassica TE resource]({{ "/resources/tools-data/" | relative_url }})
+Data and scripts: [Brassica TE data]({{ "/resources/data/" | relative_url }}) · [TE browser](https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/)

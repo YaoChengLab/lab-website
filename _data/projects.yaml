@@ -1,88 +1,88 @@
-# Cards on the Resources page.
-# group: featured -> top section; group: platform -> research platforms; no group -> datasets.
+# Tools: cards on the Resources > Tools page.
+# home: true -> also shown in the "Tools" row on the home page.
+# buttons: type is one of the types in _data/types.yaml (app, github, paper, docs, data, link...)
 
 - title: pxGPT
   subtitle: AI turns plant photos into phenotype records
-  group: featured
   image: images/projects/pxgpt.jpg
   link: resources/tools-data/pxGPT/
-  description: A schema-constrained multimodal large language model framework for plant phenotyping. Published in _Bioinformatics_ (2026).
-  repo: YaoChengLab/pxgpt
+  description: A schema-constrained multimodal large language model framework for plant phenotyping.
+  home: true
+  buttons:
+    - type: github
+      link: YaoChengLab/pxgpt
+    - type: paper
+      text: Bioinformatics 2026
+      link: https://doi.org/10.1093/bioinformatics/btag781
+    - type: docs
+      text: Guide (EN)
+      link: resources/tools-data/pxGPT/
+    - type: docs
+      text: 中文
+      link: resources/tools-data/pxgpt-tw/
   tags:
-    - software
     - phenotyping
+    - AI
 
 - title: StomaVision
   subtitle: Stomatal trait analysis through deep learning
-  group: featured
   image: images/projects/stomavision.jpg
   link: resources/tools-data/stomavision/
-  description: Automated detection and measurement of stomata on images from many plant species, including field samples and videos.
-  repo: YaoChengLab/StomaVision
+  description: Detects and measures stomata on images and videos from many plant species, including field samples.
+  home: true
+  buttons:
+    - type: app
+      text: Launch app
+      link: https://stomavision.streamlit.app/
+    - type: github
+      link: YaoChengLab/StomaVision
+    - type: preprint
+      text: bioRxiv
+      link: https://doi.org/10.1101/2024.04.24.590919
+    - type: docs
+      text: More info
+      link: resources/tools-data/stomavision/
   tags:
-    - software
     - phenotyping
+    - AI
 
-- title: Brassica TE resource
+- title: Brassica TE browser
   subtitle: Transposable elements in B. rapa and B. oleracea
-  group: featured
   image: images/projects/brassica-te.jpg
-  link: resources/tools-data/
-  description: TE annotation in JBrowse, BioProjects, scripts for reproducibility, and a Figshare data repository.
-  repo: YaoChengLab/Brassica_TE_Family
+  link: https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/
+  description: TE annotation in JBrowse, with scripts and data from our Brassica TE study.
+  home: true
+  buttons:
+    - type: link
+      icon: fa-solid fa-dna
+      text: JBrowse
+      link: https://jbrowse.southerngenomics.org/Repeat_Brassica_AA_CC/
+    - type: github
+      link: YaoChengLab/Brassica_TE_Family
+    - type: data
+      text: Figshare
+      link: https://doi.org/10.6084/m9.figshare.28151594.v1
   tags:
-    - dataset
     - genomics
-
-- title: data4ai
-  subtitle: 讓資料分析不再是研究路上的絆腳石
-  group: platform
-  image: images/resources/data4ai.jpg
-  link: https://data4ai.southerngenomics.org/
-  description: Data and AI services for agricultural research.
-  tags:
-    - platform
-
-- title: Bioinformatics cluster
-  subtitle: Dayhoff high-performance computing
-  group: platform
-  image: images/resources/hpc.jpg
-  link: https://hpc.southerngenomics.org/
-  description: Dayhoff bioinformatics cluster, 650 CPU cores and 5.5 TB RAM.
-  tags:
-    - platform
-
-- title: Genomics
-  subtitle: Sequencing and library preparation
-  group: platform
-  image: images/resources/genomics.jpg
-  link: resources/genomics/
-  description: Critical knowledge and instruments for high-throughput sequencing.
-  tags:
-    - platform
-
-- title: Phenotyping
-  subtitle: Automatic plant phenotyping
-  group: platform
-  image: images/resources/phenotyping.jpg
-  description: Automatic plant phenotyping system and computer-vision-assisted analysis.
-  tags:
-    - platform
 
 - title: MicroGenomePipeline
   subtitle: Bacterial genome assembly and comparative genomics
   image: images/projects/xanthomonas-citri.jpg
   link: https://github.com/YaoChengLab/MicroGenomePipeline
-  repo: YaoChengLab/MicroGenomePipeline
+  description: Shell-based pipeline for bacterial genome assembly and comparative genomics.
+  buttons:
+    - type: github
+      link: YaoChengLab/MicroGenomePipeline
   tags:
-    - software
     - genomics
 
 - title: Brassica germplasm phenotyping
   subtitle: Germplasm records, plant images, and trait data
   image: images/projects/pxgpt.jpg
   link: https://github.com/YaoChengLab/brassica-germplasm-phenotyping
-  repo: YaoChengLab/brassica-germplasm-phenotyping
+  description: Python platform linking Brassica germplasm records, plant images, and trait data.
+  buttons:
+    - type: github
+      link: YaoChengLab/brassica-germplasm-phenotyping
   tags:
-    - software
     - phenotyping
