@@ -5,7 +5,7 @@ permalink: /resources/tools-data/pxGPT/
 
 # pxGPT turns plant photos into clear records with AI
 
-{% include figure.html image="images/projects/pxgpt.jpg" %}
+{% include figure.html image="images/news/2026-10-31_pxgpt_cartoon_en.png" %}
 
 {% include button.html type="github" text="pxGPT on GitHub" link="YaoChengLab/pxgpt" %}
 {% include button.html type="paper" text="Bioinformatics (2026)" link="https://doi.org/10.1093/bioinformatics/btag781" %}

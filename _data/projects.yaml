@@ -4,7 +4,7 @@
 
 - title: pxGPT
   subtitle: AI turns plant photos into phenotype records
-  image: images/projects/pxgpt.jpg
+  image: images/news/2026-10-31_pxgpt_cartoon_en.png
   link: resources/tools-data/pxGPT/
   description: A schema-constrained multimodal large language model framework for plant phenotyping.
   home: true

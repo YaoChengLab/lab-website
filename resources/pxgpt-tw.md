@@ -5,7 +5,7 @@ permalink: /resources/tools-data/pxgpt-tw/
 
 # pxGPT 讓 AI 看植物照片，把外觀描述整理成表格
 
-{% include figure.html image="images/projects/pxgpt-tw.jpg" %}
+{% include figure.html image="images/news/2026-10-31_pxgpt_cartoon_zh-TW.png" %}
 
 {% include button.html type="github" text="pxGPT on GitHub" link="YaoChengLab/pxgpt" %}
 {% include button.html type="paper" text="Bioinformatics (2026)" link="https://doi.org/10.1093/bioinformatics/btag781" %}
