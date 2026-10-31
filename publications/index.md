@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-scroll" %}Publications
 
-This list is generated automatically from our members' [ORCID](https://orcid.org) records and the DOIs in `_data/sources.yaml`, and is refreshed every week.
+Papers from the lab of Yao-Cheng Lin, generated automatically from his [ORCID](https://orcid.org/0000-0002-9390-795X) record and the list in `_data/sources.yaml`, refreshed every week.
+Members' earlier work is listed on their [team pages]({{ "team" | relative_url }}).
 See also Yao-Cheng Lin on [Google Scholar](https://scholar.google.com/citations?user=1d5qsg4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-9390-795X).
 
 {% include section.html %}
@@ -26,4 +27,5 @@ See also Yao-Cheng Lin on [Google Scholar](https://scholar.google.com/citations?
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% comment %}lab papers: from the PI's ORCID (lab: true) or listed in _data/sources.yaml{% endcomment %}
+{% include list.html data="citations" component="citation" style="rich" filter="lab == true or file == 'sources.yaml'" %}

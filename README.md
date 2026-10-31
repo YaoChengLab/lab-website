@@ -10,19 +10,23 @@ Website of the Yao-Cheng Lin lab, Academia Sinica.
 
 ## Editing
 
+This site is maintained by Yao-Cheng Lin, the only person with write access.
+Lab members: please email changes (text, photos, ORCID iD) to Yao-Cheng, or open an issue.
+
 | To change | Edit |
 |---|---|
 | Home page | `index.md` |
 | Research themes | `research/index.md` |
-| Publications | Automatic from `_data/orcid.yaml` + `_data/sources.yaml` (don't edit `_data/citations.yaml`) |
+| Publications page | Automatic from the PI's ORCID in `_data/orcid.yaml` + `_data/sources.yaml` (don't edit `_data/citations.yaml`) |
+| A member's own paper list | `<member-file>: true` on their entry in `_data/orcid.yaml` |
 | News | add `_posts/YYYY-MM-DD-short-title.md` |
 | Team | `_members/<name>.md`, photo in `images/team/` |
 | Tools, data, platforms | `_data/projects.yaml`, pages in `resources/` |
+| Lab only links | `resources/lab-only.md` |
 | Contact | `contact/index.md` |
-| Site title, links | `_config.yaml` |
+| Site title, links, header image | `_config.yaml` |
 
-Make changes on a branch and open a pull request: a bot comments with a preview link.
-Merging to `main` publishes the site in a few minutes.
+Commit to `main` to publish (about 3 minutes), or use a branch + pull request to get a preview link first.
 
 ## Acknowledgements
 

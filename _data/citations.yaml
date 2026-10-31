@@ -15,8 +15,14 @@
   date: '2026-10-01'
   link: https://doi.org/hcqvjv
   orcid: 0009-0003-8596-9047
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
+  jheng-yang-ou: true
+  ting-li-wu: true
+  yu-lin-wu: true
 - id: doi:10.1073/pnas.2511842122
   title: "Chromosomal deletions in banana somaclonal variants reveal negative regulators\
     \ of immunity underlying\n                    <i>Fusarium</i>\n              \
@@ -36,8 +42,11 @@
   date: '2025-11-24'
   link: https://doi.org/hcqvjw
   orcid: 0000-0001-5827-5865
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
 - id: doi:10.1093/plphys/kiaf536
   title: "<i>N</i>\n                    -hydroxy-pipecolic acid-mediated signal transduction\
     \ and resistance requires\n                    <i>DAWDLE</i>"
@@ -57,8 +66,11 @@
   date: '2025-10-23'
   link: https://doi.org/hcqvjx
   orcid: 0000-0001-5811-4471
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  jheng-yang-ou: true
 - id: doi:10.1111/tpj.70452
   title: Transposable elements drive evolution and perturb gene expression in <i>Brassica
     rapa</i> and <i>B. oleracea</i>
@@ -72,8 +84,12 @@
   date: '2025-09-01'
   link: https://doi.org/hcqvjz
   orcid: 0000-0001-5811-4471
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
+  jheng-yang-ou: true
 - id: doi:10.1016/j.iot.2025.101617
   title: An intelligent plant watering decision support system for drought monitoring
     &amp; analysis based on AIoT and an LSTM time-series framework
@@ -91,8 +107,11 @@
   date: '2025-07-01'
   link: https://doi.org/hcqvj2
   orcid: 0000-0001-5811-4471
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  jheng-yang-ou: true
 - id: doi:10.3390/horticulturae10121325
   title: KASP Markers for Identifying Roselle (Hibiscus sabdariffa L.) Key Varieties
     Based on Genetic Polymorphisms Revealed by ddRAD-Seq
@@ -111,6 +130,8 @@
   date: '2024-12-11'
   link: https://doi.org/hcqvj3
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/pbi.14285
@@ -132,6 +153,8 @@
   date: '2024-01-04'
   link: https://doi.org/hcqvj4
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/PDIS-09-22-2198-A
@@ -148,6 +171,8 @@
   date: '2023-06-01'
   link: https://doi.org/hcqvj5
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-022-12326-x
@@ -167,6 +192,8 @@
   date: '2022-05-19'
   link: https://doi.org/hbhf2s
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/plphys/kiac022
@@ -192,8 +219,11 @@
   date: '2022-01-28'
   link: https://doi.org/hcqvj6
   orcid: 0000-0001-5827-5865
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
 - id: doi:10.1089/crispr.2021.0045
   title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
     Regeneration
@@ -211,6 +241,8 @@
   date: '2021-10-01'
   link: https://doi.org/hcqvj7
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fmicb.2021.731711
@@ -228,8 +260,12 @@
   date: '2021-09-07'
   link: https://doi.org/gtvgt4
   orcid: 0000-0002-2018-9387
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
+  ting-li-wu: true
 - id: doi:10.1101/2021.03.09.434087
   title: Efficient and Economical Targeted Insertion in Plant Genomes via Protoplast
     Regeneration
@@ -247,6 +283,8 @@
   date: '2021-03-10'
   link: https://doi.org/hcqvj8
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/is3c50286.2020.00058
@@ -259,6 +297,8 @@
   date: '2020-11-01'
   link: https://doi.org/hcqvj9
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12864-019-5909-5
@@ -279,8 +319,12 @@
   date: '2019-07-08'
   link: https://doi.org/gj74vm
   orcid: 0000-0001-5811-4471
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
+  po-xing-zheng: true
+  jheng-yang-ou: true
 - id: doi:10.1038/s41598-019-47789-y
   title: Small RNA profiling in Pinus pinaster reveals the transcriptome of developing
     seeds and highlights differences between zygotic and somatic embryos
@@ -297,6 +341,8 @@
   date: '2019-08-05'
   link: https://doi.org/gkdzrq
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/MRA.01563-18
@@ -322,6 +368,8 @@
   date: '2019-02-07'
   link: https://doi.org/hcqvkb
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1801437115
@@ -360,6 +408,8 @@
   date: '2018-10-29'
   link: https://doi.org/gfnpns
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - title: Complete Genome Sequence of Bacillus cereus C1L, a Plant Growth-Promoting
@@ -368,6 +418,8 @@
   date: '2022-05-27'
   link: http://mra.asm.org/content/5/46/e01290-17.abstract
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5598/imafungus.2017.08.02.10
@@ -401,6 +453,8 @@
   date: '2017-11-21'
   link: https://doi.org/gcrnrz
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/tpj.13419
@@ -424,6 +478,8 @@
   date: '2017-02-01'
   link: https://doi.org/hcqvkc
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature23897
@@ -468,6 +524,8 @@
   date: '2017-09-13'
   link: https://doi.org/gbwkhb
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature16548
@@ -513,6 +571,8 @@
   date: '2016-01-27'
   link: https://doi.org/f3phgk
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/jxb/erv346
@@ -531,6 +591,8 @@
   date: '2015-07-20'
   link: https://doi.org/f7ndsz
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ncomms5767
@@ -557,6 +619,8 @@
   date: '2014-09-03'
   link: https://doi.org/f6kp4m
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12870-014-0220-8
@@ -572,6 +636,8 @@
   date: '2014-08-21'
   link: https://doi.org/f3p257
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11295-014-0717-1
@@ -587,6 +653,8 @@
   date: '2014-03-26'
   link: https://doi.org/f54p67
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/bit.24895
@@ -606,6 +674,8 @@
   date: '2013-05-01'
   link: https://doi.org/hcqvkd
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature12221
@@ -652,6 +722,8 @@
   date: '2013-06-12'
   link: https://doi.org/f44x9j
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/pr400392a
@@ -670,6 +742,8 @@
   date: '2013-09-11'
   link: https://doi.org/f5fgcr
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature12211
@@ -735,6 +809,8 @@
   date: '2013-05-01'
   link: https://doi.org/f2zsx6
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mmi.12200
@@ -753,6 +829,8 @@
   date: '2013-03-21'
   link: https://doi.org/f4tc7v
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/MPMI-09-11-0238
@@ -779,6 +857,8 @@
   date: '2012-03-01'
   link: https://doi.org/btk7nz
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.devcel.2012.02.002
@@ -811,6 +891,8 @@
   date: '2012-03-01'
   link: https://doi.org/f3ss6g
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1469-8137.2012.04128.x
@@ -874,6 +956,8 @@
   date: '2012-03-28'
   link: https://doi.org/f23wf5
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-12-368
@@ -905,6 +989,8 @@
   date: '2011-07-18'
   link: https://doi.org/bnq3s7
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1019315108
@@ -964,6 +1050,8 @@
   date: '2011-05-02'
   link: https://doi.org/bqxw29
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nbt.1544
@@ -982,6 +1070,8 @@
   date: '2009-05-24'
   link: https://doi.org/d3dqc9
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1104/pp.109.138123
@@ -997,6 +1087,8 @@
   date: '2009-05-06'
   link: https://doi.org/ckg9gx
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1475-2859-8-53
@@ -1015,6 +1107,8 @@
   date: '2009-01-01'
   link: https://doi.org/bxvf4c
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature06556
@@ -1092,6 +1186,8 @@
   date: '2008-03-01'
   link: https://doi.org/c3txmw
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkm978
@@ -1101,6 +1197,8 @@
   date: '2007-12-23'
   link: https://doi.org/djjn6k
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - title: A repetitive sequence specific to Oryza species with BB genome and abundant
@@ -1108,6 +1206,8 @@
   publisher: BOTANICAL STUDIES
   date: '2022-05-24'
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - title: A rice gene activation/knockout mutant resource for high throughput functional
@@ -1115,6 +1215,8 @@
   publisher: PLANT MOLECULAR BIOLOGY
   date: '2022-05-24'
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - title: A rice phenomics study-phenotype scoring and seed propagation of a T-DNA
@@ -1122,6 +1224,8 @@
   publisher: PLANT MOLECULAR BIOLOGY
   date: '2022-05-24'
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.5509507
@@ -1227,12 +1331,16 @@
   date: '2007-01-08'
   link: https://doi.org/bgdnvr
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - title: Detection of SNPs between Tainung 67 and Nipponbare rice cultivars
   publisher: BOTANICAL STUDIES
   date: '2022-05-24'
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature03895
@@ -1243,6 +1351,8 @@
   date: '2005-08-01'
   link: https://doi.org/fwm78x
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evv044
@@ -1257,6 +1367,8 @@
   date: '2015-03-05'
   link: https://doi.org/f3mwx6
   orcid: 0000-0002-9390-795X
+  lab: true
+  yao-cheng-lin: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.04.24.590919
@@ -1280,8 +1392,12 @@
   date: '2024-04-28'
   link: https://doi.org/hcqvmb
   orcid: 0009-0003-8596-9047
+  po-xing-zheng: true
   plugin: sources.py
   file: sources.yaml
+  jheng-yang-ou: true
+  ting-li-wu: true
+  yu-lin-wu: true
 - id: doi:10.1094/pdis-09-22-2198-a
   title: Complete Genome Sequence Resource of <i>Pectobacterium colocasium</i> Strain
     F1-1 that Causes Soft Rot Disease of Taro
@@ -1296,8 +1412,10 @@
   date: '2023-06-01'
   link: https://doi.org/hcqvj5
   orcid: 0000-0002-2018-9387
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
+  ting-li-wu: true
 - id: doi:10.1101/2021.11.02.466947
   title: DNA-free CRISPR-Cas9 gene editing of tetraploid tomatoes using protoplast
     regeneration
@@ -1320,6 +1438,7 @@
   date: '2021-11-02'
   link: https://doi.org/hcqvmc
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fmicb.2020.00117
@@ -1345,6 +1464,7 @@
   date: '2020-02-11'
   link: https://doi.org/ggm9j5
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fmicb.2018.01733
@@ -1366,6 +1486,7 @@
   date: '2018-08-03'
   link: https://doi.org/gd4fmt
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fmicb.2018.01595
@@ -1385,6 +1506,7 @@
   date: '2018-07-16'
   link: https://doi.org/gdzgrx
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmii.2016.12.010
@@ -1401,6 +1523,7 @@
   date: '2017-12-01'
   link: https://doi.org/hcqvmd
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.01290-17
@@ -1416,6 +1539,7 @@
   date: '2017-11-16'
   link: https://doi.org/hcqvmf
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/mbio.00899-17
@@ -1439,6 +1563,7 @@
   date: '2017-09-06'
   link: https://doi.org/gbpnbx
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jgar.2017.05.006
@@ -1454,6 +1579,7 @@
   date: '2017-06-01'
   link: https://doi.org/hcqvmg
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.00066-17
@@ -1469,6 +1595,7 @@
   date: '2017-03-30'
   link: https://doi.org/hcqvmh
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.01403-16
@@ -1486,6 +1613,7 @@
   date: '2016-12-29'
   link: https://doi.org/hcqvmj
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmii.2014.04.014
@@ -1502,6 +1630,7 @@
   date: '2016-04-01'
   link: https://doi.org/f8wjrd
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JCM.02089-15
@@ -1521,6 +1650,7 @@
   date: '2016-01-01'
   link: https://doi.org/f757nh
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.nmni.2015.01.002
@@ -1536,6 +1666,7 @@
   date: '2015-05-01'
   link: https://doi.org/hcqvmk
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JCM.01152-15
@@ -1552,6 +1683,7 @@
   date: '2015-10-01'
   link: https://doi.org/f72q35
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0145223
@@ -1572,6 +1704,7 @@
   date: '2015-12-28'
   link: https://doi.org/hcqvmm
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/1469-0691.12379
@@ -1592,6 +1725,7 @@
   date: '2014-06-01'
   link: https://doi.org/f6csbr
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomeA.00149-12
@@ -1612,6 +1746,7 @@
   date: '2013-02-28'
   link: https://doi.org/hcqvmn
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/2049-632X.12114
@@ -1631,6 +1766,7 @@
   date: '2013-12-16'
   link: https://doi.org/f52w55
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0081882
@@ -1652,6 +1788,7 @@
   date: '2013-12-03'
   link: https://doi.org/ghdrjc
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/jmm.0.036012-0
@@ -1669,6 +1806,7 @@
   date: '2012-01-01'
   link: https://doi.org/d57zzm
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s15010-010-0049-5
@@ -1686,6 +1824,7 @@
   date: '2010-08-24'
   link: https://doi.org/dmd4k5
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JCM.00202-09
@@ -1705,6 +1844,7 @@
   date: '2009-10-01'
   link: https://doi.org/b5kvtp
   orcid: 0000-0001-5827-5865
+  po-xing-zheng: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.envexpbot.2025.106288
@@ -1722,6 +1862,7 @@
   date: '2026-01-01'
   link: https://doi.org/hcqvmp
   orcid: 0009-0003-8596-9047
+  yu-lin-wu: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.stress.2026.101259

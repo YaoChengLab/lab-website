@@ -1,6 +1,11 @@
 ---
 ---
 
+// base text size; all other sizes (rem) scale from this. 19px ≈ 14.25pt
+html {
+  font-size: 19px;
+}
+
 body {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,10 @@
 title: Bioinformatics & Computational Genomics
 subtitle: Yao-Cheng Lin Lab · Academia Sinica
 description: Plant genomics and bioinformatics at the Biotechnology Center in Southern Taiwan and the Agricultural Biotechnology Research Center, Academia Sinica.
+# header/footer background images. To use your own: put the image in images/
+# (wide, ~2000px, JPG) and change the path here. A single page can override it
+# with "header: images/other.jpg" in its front matter.
+# Text is drawn white on top; for a light image add "header-dark: false".
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

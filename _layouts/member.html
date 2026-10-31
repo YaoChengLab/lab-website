@@ -20,23 +20,36 @@ layout: default
 
 {{ content }}
 
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
+{% capture filter %}item["{{ page.slug }}"] == true{% endcapture %}
+{% assign papers = site.data.citations | data_filter: filter %}
 
-{% capture search -%}
-  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
+{% if papers.size > 0 %}
+  {% include section.html %}
 
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Publications page
-  </a>
-</p>
+  <h2 id="publications">Publications</h2>
+
+  <p>From {{ page.name | default: page.title }}'s ORCID record, refreshed weekly.</p>
+
+  {% include list.html data="citations" component="citation" style="rich" filter=filter %}
+{% else %}
+  {% assign aliases = page.aliases
+    | default: page.name
+    | default: page.title
+    | join: ","
+    | split: ","
+    | array_filter
+  %}
+
+  {% capture search -%}
+    publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  {%- endcapture %}
+
+  <p class="center">
+    <a href="{{ search | relative_url | uri_escape }}">
+      Search for {{ page.name | default: page.title }}'s papers on the Publications page
+    </a>
+  </p>
+{% endif %}
 
 {% capture search -%}
   news/?search={{ page.name }}
