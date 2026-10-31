@@ -4,7 +4,7 @@
 
 # Bioinformatics & Computational Genomics Lab website
 
-Visit **[www.southerngenomics.org](https://www.southerngenomics.org)** 🚀
+Visit **[yaochenglab.github.io/lab-website](https://yaochenglab.github.io/lab-website)** 🚀
 
 Website of the Yao-Cheng Lin lab, Academia Sinica.
 
