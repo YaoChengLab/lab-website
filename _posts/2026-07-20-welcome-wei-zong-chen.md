@@ -1,6 +1,6 @@
 ---
 title: "Welcome Wei-Zong Chen 陳暐宗 to BCG"
-image: images/news/2026-07-20-welcome-wei-zong-chen.jpg
+image: images/news/2026-WeiZongChen.jpg
 tags:
   - people
 ---

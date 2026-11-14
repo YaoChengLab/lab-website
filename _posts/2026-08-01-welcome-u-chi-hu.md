@@ -1,6 +1,6 @@
 ---
 title: "Welcome U-Chi Hu 胡祐齊 to BCG"
-image: images/news/2026-08-01-welcome-u-chi-hu.jpg
+image: images/news/2026-UChiHu.jpg
 tags:
   - people
 ---

@@ -1,6 +1,6 @@
 ---
 name: Yao-Cheng Lin 林耀正
-image: images/team/yao-cheng-lin.jpg
+image: images/team/2020-yao-chen-lin.jpg
 role: principal-investigator
 description: Principal Investigator
 affiliation: Associate Research Fellow, ABRC, Academia Sinica

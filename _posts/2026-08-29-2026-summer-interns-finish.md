@@ -1,6 +1,6 @@
 ---
 title: "Congratulations to the 2026 summer interns on finishing their training"
-image: images/news/2026-08-29-2026-summer-interns-finish.jpg
+image: images/news/2026-SummerIntern.jpg
 tags:
   - intern
 ---
